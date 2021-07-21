@@ -1,0 +1,4 @@
+DATA_STRUCTURE/queue.d DATA_STRUCTURE/queue.o: ../DATA_STRUCTURE/queue.c \
+ ../DATA_STRUCTURE/Queue.h
+
+../DATA_STRUCTURE/Queue.h:

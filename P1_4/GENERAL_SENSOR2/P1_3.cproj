@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>6.2</ProjectVersion>
+    <ToolchainName>com.Atmel.AVRGCC8.C</ToolchainName>
+    <ProjectGuid>{ae029762-1851-407d-9d57-08e029dd7739}</ProjectGuid>
+    <avrdevice>ATmega32A</avrdevice>
+    <avrdeviceseries>none</avrdeviceseries>
+    <OutputType>Executable</OutputType>
+    <Language>C</Language>
+    <OutputFileName>$(MSBuildProjectName)</OutputFileName>
+    <OutputFileExtension>.elf</OutputFileExtension>
+    <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
+    <AssemblyName>GENERAL_SENSOR2</AssemblyName>
+    <Name>P1_3</Name>
+    <RootNamespace>GENERAL_SENSOR2</RootNamespace>
+    <ToolchainFlavour>Native</ToolchainFlavour>
+    <KeepTimersRunning>true</KeepTimersRunning>
+    <OverrideVtor>false</OverrideVtor>
+    <CacheFlash>true</CacheFlash>
+    <ProgFlashFromRam>true</ProgFlashFromRam>
+    <RamSnippetAddress>0x20000000</RamSnippetAddress>
+    <UncachedRange />
+    <preserveEEPROM>true</preserveEEPROM>
+    <OverrideVtorValue>exception_table</OverrideVtorValue>
+    <BootSegment>2</BootSegment>
+    <eraseonlaunchrule>0</eraseonlaunchrule>
+    <AsfFrameworkConfig>
+      <framework-data xmlns="">
+        <options />
+        <configurations />
+        <files />
+        <documentation help="" />
+        <offline-documentation help="" />
+        <dependencies>
+          <content-extension eid="atmel.asf" uuidref="Atmel.ASF" version="3.19.0" />
+        </dependencies>
+      </framework-data>
+    </AsfFrameworkConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <ToolchainSettings>
+      <AvrGcc>
+        <avrgcc.common.outputfiles.hex>True</avrgcc.common.outputfiles.hex>
+        <avrgcc.common.outputfiles.lss>True</avrgcc.common.outputfiles.lss>
+        <avrgcc.common.outputfiles.eep>True</avrgcc.common.outputfiles.eep>
+        <avrgcc.common.outputfiles.srec>True</avrgcc.common.outputfiles.srec>
+        <avrgcc.common.outputfiles.usersignatures>False</avrgcc.common.outputfiles.usersignatures>
+        <avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>True</avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>
+        <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
+        <avrgcc.compiler.symbols.DefSymbols>
+          <ListValues>
+            <Value>NDEBUG</Value>
+          </ListValues>
+        </avrgcc.compiler.symbols.DefSymbols>
+        <avrgcc.compiler.optimization.level>Optimize for size (-Os)</avrgcc.compiler.optimization.level>
+        <avrgcc.compiler.optimization.PackStructureMembers>True</avrgcc.compiler.optimization.PackStructureMembers>
+        <avrgcc.compiler.optimization.AllocateBytesNeededForEnum>True</avrgcc.compiler.optimization.AllocateBytesNeededForEnum>
+        <avrgcc.compiler.warnings.AllWarnings>True</avrgcc.compiler.warnings.AllWarnings>
+        <avrgcc.linker.libraries.Libraries>
+          <ListValues>
+            <Value>libm</Value>
+          </ListValues>
+        </avrgcc.linker.libraries.Libraries>
+      </AvrGcc>
+    </ToolchainSettings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <ToolchainSettings>
+      <AvrGcc>
+        <avrgcc.common.outputfiles.hex>True</avrgcc.common.outputfiles.hex>
+        <avrgcc.common.outputfiles.lss>True</avrgcc.common.outputfiles.lss>
+        <avrgcc.common.outputfiles.eep>True</avrgcc.common.outputfiles.eep>
+        <avrgcc.common.outputfiles.srec>True</avrgcc.common.outputfiles.srec>
+        <avrgcc.common.outputfiles.usersignatures>False</avrgcc.common.outputfiles.usersignatures>
+        <avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>True</avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>
+        <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
+        <avrgcc.compiler.symbols.DefSymbols>
+          <ListValues>
+            <Value>DEBUG</Value>
+          </ListValues>
+        </avrgcc.compiler.symbols.DefSymbols>
+        <avrgcc.compiler.directories.IncludePaths>
+          <ListValues>
+            <Value>../HARDWARE</Value>
+            <Value>../MAIN</Value>
+            <Value>../MCUL</Value>
+            <Value>../MODULES/NRF_MODULE</Value>
+            <Value>../PERIPHERALS/ADC</Value>
+            <Value>../PERIPHERALS/SPI</Value>
+            <Value>../PERIPHERALS/TIMERS</Value>
+            <Value>../PROTOCOL</Value>
+            <Value>../PROTOCOL/SECURITY</Value>
+            <Value>../RANDOM_NUMBER_GENERATORS</Value>
+            <Value>../SENSOR_MANAGE</Value>
+            <Value>../TEST</Value>
+            <Value>../TIMERS</Value>
+            <Value>../APP</Value>
+            <Value>../PERIPHERALS/EEPROM</Value>
+          </ListValues>
+        </avrgcc.compiler.directories.IncludePaths>
+        <avrgcc.compiler.optimization.level>Optimize (-O1)</avrgcc.compiler.optimization.level>
+        <avrgcc.compiler.optimization.PackStructureMembers>True</avrgcc.compiler.optimization.PackStructureMembers>
+        <avrgcc.compiler.optimization.AllocateBytesNeededForEnum>True</avrgcc.compiler.optimization.AllocateBytesNeededForEnum>
+        <avrgcc.compiler.optimization.DebugLevel>Default (-g2)</avrgcc.compiler.optimization.DebugLevel>
+        <avrgcc.compiler.warnings.AllWarnings>True</avrgcc.compiler.warnings.AllWarnings>
+        <avrgcc.linker.libraries.Libraries>
+          <ListValues>
+            <Value>libm</Value>
+          </ListValues>
+        </avrgcc.linker.libraries.Libraries>
+        <avrgcc.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcc.assembler.debugging.DebugLevel>
+      </AvrGcc>
+    </ToolchainSettings>
+    <OutputFileName>P1_3</OutputFileName>
+    <OutputFileExtension>.elf</OutputFileExtension>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="APP\APP.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="APP\APP.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="APP\APP_CONFIG.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="APP\APP_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARE\HARDWARE_APP_CONNECTIONS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="P1_3.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARE\HARDWARE_CONNECTIONS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARE\HARDWARE_CONNECTIONS_NRF.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARE\HARDWARE_OTHERS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARE\HARDWARE_SENSOR_MANG.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MAIN\MAIN_DRIVER.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MAIN\MAIN_DRIVER.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\macros.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\microconfigrations.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\microconfigrations.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\standerdtypes.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF_MODULE\NRF24L01.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF_MODULE\NRF24L01.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF_MODULE\NRF24L01_CONFIG.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF_MODULE\NRF24L01_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\ADC\adcmodule.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\ADC\adcmodule.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\EEPROM\eeprom.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\EEPROM\eeprom.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\SPI\spi.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\SPI\spi.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\timer0.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\timer0.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER1.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER2.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER2.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\protocol.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\protocol.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\protocol_define.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\SECURITY\SECURITY_DRIVER.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\SECURITY\SECURITY_DRIVER.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\SECURITY\SECURITY_DRIVER_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="RANDOM_NUMBER_GENERATORS\RANDOM_NUM_GEN.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="RANDOM_NUMBER_GENERATORS\RANDOM_NUM_GEN.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SENSOR_MANAGE\SENSOR_MANAGE.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SENSOR_MANAGE\SENSOR_MANAGE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SENSOR_MANAGE\SENSOR_MANAGE_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\minohelper.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\minohelper.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\TEST.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\TEST.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\TEST_HARDWARE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\uart.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\uart.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TIMERS\TIMER.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TIMERS\TIMER.h">
+      <SubType>compile</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="HARDWARE" />
+    <Folder Include="MAIN" />
+    <Folder Include="MCUL" />
+    <Folder Include="MODULES" />
+    <Folder Include="MODULES\NRF_MODULE" />
+    <Folder Include="APP" />
+    <Folder Include="PERIPHERALS\ADC" />
+    <Folder Include="PERIPHERALS\EEPROM" />
+    <Folder Include="PERIPHERALS\TIMERS" />
+    <Folder Include="PERIPHERALS\SPI" />
+    <Folder Include="PROTOCOL\SECURITY" />
+    <Folder Include="TIMERS" />
+    <Folder Include="TEST" />
+    <Folder Include="SENSOR_MANAGE" />
+    <Folder Include="RANDOM_NUMBER_GENERATORS" />
+    <Folder Include="PERIPHERALS" />
+    <Folder Include="PROTOCOL" />
+  </ItemGroup>
+  <Import Project="$(AVRSTUDIO_EXE_PATH)\\Vs\\Compiler.targets" />
+</Project>

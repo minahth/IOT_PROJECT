@@ -1,0 +1,1981 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                              PERIPHERALS/TIMERS/TIMER0.o (__subsf3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                              PERIPHERALS/TIMERS/TIMER0.o (__divsf3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                              PERIPHERALS/TIMERS/TIMER0.o (__fixunssfsi)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                              PERIPHERALS/UART/UART_2P.o (__floatunsisf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                              PERIPHERALS/TIMERS/TIMER0.o (__mulsf3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                              PERIPHERALS/UART/UART_2P.o (__udivmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+                              BLUETOOTH/BLUETOOTH.o (__tablejump2__)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                              LED_GRID/LED_GRID.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                              BLUETOOTH/BLUETOOTH.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                              SENSOR_MANAGE/SENSOR_MANAGE.o (__umulhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+                              PROTOCOL/SECURITY/SECURITY_DRIVER.o (__muluhisi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+                              MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o (__umoddi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o) (__udivmod64)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+                              MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o (__negdi2)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+                              MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o (__ashldi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+                              SENSOR_MANAGE/SENSOR_MANAGE.o (__lshrdi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+                              MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o (__adddi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+                              SENSOR_MANAGE/SENSOR_MANAGE.o (__adddi3_s8)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+                              PERIPHERALS/UART/UART_2P.o (__cmpdi2)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+                              MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o (__cmpdi2_s8)
+
+Allocating common symbols
+Common symbol       size              file
+
+SENSOR_SEND_BUFFER  0x32              SENSOR_MANAGE/SENSOR_MANAGE.o
+TX_BUFFER           0x28              BLUETOOTH/BLUETOOTH.o
+NRF1                0x26              MODULES/NRF_MODULE/NRF24L01.o
+RX_BUFFER           0x28              BLUETOOTH/BLUETOOTH.o
+G_RECIVED_DATA      0x9b              WIFI/WIFI.o
+PASSWORD            0xf               WIFI/WIFI.o
+F_B_CH_ID           0xa               WIFI/WIFI.o
+G_SEND_DATA_QUEUE   0x143             WIFI/WIFI.o
+F_B_ADD_NEW_SENSOR  0x1               SENSOR_MANAGE/SENSOR_MANAGE.o
+USER_NAME           0xf               WIFI/WIFI.o
+F_B_USER_NAME       0xf               WIFI/WIFI.o
+MY_SENSORS          0xfa              SENSOR_MANAGE/SENSOR_MANAGE.o
+B_SENSOR_ADDRESS_L_DELETE
+                    0x1               SENSOR_MANAGE/SENSOR_MANAGE.o
+F_B_WRITE_KEY       0x19              WIFI/WIFI.o
+F_B_PASSWORD        0xf               WIFI/WIFI.o
+F_VALID_USER_PASS   0x1               WIFI/WIFI.o
+NRF_STATUS          0x1               MODULES/NRF_MODULE/NRF24L01.o
+B_SENSOR_ADDRESS_DELETE
+                    0x5               SENSOR_MANAGE/SENSOR_MANAGE.o
+F_B_DELETE_SENSOR   0x1               SENSOR_MANAGE/SENSOR_MANAGE.o
+B_NEW_SENSOR_BUFFER
+                    0x19              SENSOR_MANAGE/SENSOR_MANAGE.o
+NEW_LAST_ENTRY      0x4               MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+G_CH_ID             0xa               WIFI/WIFI.o
+OLD_LAST_ENTRY      0x4               SENSOR_MANAGE/SENSOR_MANAGE.o
+F_B_FIELD_NUM       0x1               WIFI/WIFI.o
+F_T_TRY_TO_CONNECT  0x1               WIFI/WIFI.o
+F_B_ENABLE_SENSOR   0x1               SENSOR_MANAGE/SENSOR_MANAGE.o
+B_SENSOR_ADDRESS_L_DISABLE
+                    0x1               SENSOR_MANAGE/SENSOR_MANAGE.o
+data                0x3               PERIPHERALS/SPI/spi.o
+SENSOR_READ_BUFFER  0x32              SENSOR_MANAGE/SENSOR_MANAGE.o
+B_SENSOR_ADDRESS_ENABLE
+                    0x5               SENSOR_MANAGE/SENSOR_MANAGE.o
+B_SENSOR_ADDRESS_DISABLE
+                    0x5               SENSOR_MANAGE/SENSOR_MANAGE.o
+F_T_READY_TO_READ   0x1               WIFI/WIFI.o
+F_B_WRITE_KEY_LENGTH
+                    0x1               WIFI/WIFI.o
+PASS_LENGTH         0x1               WIFI/WIFI.o
+F_LAST_RECIVED_DATA_NOT_HANDLED
+                    0x1               WIFI/WIFI.o
+USER_LENGTH         0x1               WIFI/WIFI.o
+G_WRITE_KEY         0x19              WIFI/WIFI.o
+G_WRITE_KEY_LENGTH  0x1               WIFI/WIFI.o
+B_SENSOR_ADDRESS_L_ENABLE
+                    0x1               SENSOR_MANAGE/SENSOR_MANAGE.o
+G_CH_ID_LENGTH      0x1               WIFI/WIFI.o
+F_B_DISABLE_SENSOR  0x1               SENSOR_MANAGE/SENSOR_MANAGE.o
+F_VALID_IOT_PAR     0x1               WIFI/WIFI.o
+G_FIELD_NUM         0x1               WIFI/WIFI.o
+F_B_CH_ID_LENGTH    0x1               WIFI/WIFI.o
+F_T_READY_TO_SEND   0x1               WIFI/WIFI.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+ .text          0x00000000        0x0 BLUETOOTH/BLUETOOTH.o
+ .data          0x00000000        0x0 BLUETOOTH/BLUETOOTH.o
+ .bss           0x00000000        0x0 BLUETOOTH/BLUETOOTH.o
+ .text          0x00000000        0x0 DATA_STRUCTURE/queue.o
+ .data          0x00000000        0x0 DATA_STRUCTURE/queue.o
+ .bss           0x00000000        0x0 DATA_STRUCTURE/queue.o
+ .text.QUEUE_INTILIZE_U8
+                0x00000000        0xc DATA_STRUCTURE/queue.o
+ .text.QUEUE_ADD_U8
+                0x00000000       0x20 DATA_STRUCTURE/queue.o
+ .text.QUEUE_GET_FRONT_U8
+                0x00000000       0x12 DATA_STRUCTURE/queue.o
+ .text.QUEUE_GET_REAR_U8
+                0x00000000       0x12 DATA_STRUCTURE/queue.o
+ .text.QUEUE_DELETE_FRONT_U8
+                0x00000000       0x1a DATA_STRUCTURE/queue.o
+ .text.QUEUE_CLEAR_U8
+                0x00000000        0xc DATA_STRUCTURE/queue.o
+ .text.QUEUE_FORCED_ADD_U8
+                0x00000000       0x36 DATA_STRUCTURE/queue.o
+ .text.QUEUE_GET_REAR_ARRAY_U8
+                0x00000000       0x1e DATA_STRUCTURE/queue.o
+ .text.QUEUE_CLEAR_ARRAY_U8
+                0x00000000        0xc DATA_STRUCTURE/queue.o
+ .text          0x00000000        0x0 INTERFACE/INTERFACE.o
+ .data          0x00000000        0x0 INTERFACE/INTERFACE.o
+ .bss           0x00000000        0x0 INTERFACE/INTERFACE.o
+ .debug_info    0x00000000       0x72 INTERFACE/INTERFACE.o
+ .debug_abbrev  0x00000000       0x26 INTERFACE/INTERFACE.o
+ .debug_aranges
+                0x00000000       0x18 INTERFACE/INTERFACE.o
+ .debug_line    0x00000000       0x1a INTERFACE/INTERFACE.o
+ .debug_str     0x00000000      0x1e7 INTERFACE/INTERFACE.o
+ .comment       0x00000000       0x31 INTERFACE/INTERFACE.o
+ .text          0x00000000        0x0 LED_GRID/LED_GRID.o
+ .data          0x00000000        0x0 LED_GRID/LED_GRID.o
+ .bss           0x00000000        0x0 LED_GRID/LED_GRID.o
+ .text          0x00000000        0x0 MAIN/MAIN_DRIVER.o
+ .data          0x00000000        0x0 MAIN/MAIN_DRIVER.o
+ .bss           0x00000000        0x0 MAIN/MAIN_DRIVER.o
+ .text          0x00000000        0x0 MASTER_CONT_1.o
+ .data          0x00000000        0x0 MASTER_CONT_1.o
+ .bss           0x00000000        0x0 MASTER_CONT_1.o
+ .text          0x00000000        0x0 MCUL/microconfigrations.o
+ .data          0x00000000        0x0 MCUL/microconfigrations.o
+ .bss           0x00000000        0x0 MCUL/microconfigrations.o
+ .text.DIGwrite
+                0x00000000       0x34 MCUL/microconfigrations.o
+ .text.DIGread  0x00000000       0x14 MCUL/microconfigrations.o
+ .text.I_O_PORTS_PULLUP_ENABLE
+                0x00000000        0x8 MCUL/microconfigrations.o
+ .text.I_O_PORTS_PULLUP_DISABLE
+                0x00000000        0x8 MCUL/microconfigrations.o
+ .text          0x00000000        0x0 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .data          0x00000000        0x0 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .bss           0x00000000        0x0 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .text          0x00000000        0x0 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .data          0x00000000        0x0 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .bss           0x00000000        0x0 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .text          0x00000000        0x0 MODULES/NRF_MODULE/NRF24L01.o
+ .data          0x00000000        0x0 MODULES/NRF_MODULE/NRF24L01.o
+ .bss           0x00000000        0x0 MODULES/NRF_MODULE/NRF24L01.o
+ .text.NRF_W_TX_PAYLOAD_NOACK
+                0x00000000       0x40 MODULES/NRF_MODULE/NRF24L01.o
+ .text.NRF_RETX_PL
+                0x00000000       0x10 MODULES/NRF_MODULE/NRF24L01.o
+ .text.NRF_READ_STATUS_NOW
+                0x00000000       0x14 MODULES/NRF_MODULE/NRF24L01.o
+ .text.NRF_READ_RPD
+                0x00000000        0x8 MODULES/NRF_MODULE/NRF24L01.o
+ .text.NRF_UPDATE_RET_PL
+                0x00000000       0x1a MODULES/NRF_MODULE/NRF24L01.o
+ .text          0x00000000        0x0 PERIPHERALS/ADC/adcmodule.o
+ .data          0x00000000        0x0 PERIPHERALS/ADC/adcmodule.o
+ .bss           0x00000000        0x0 PERIPHERALS/ADC/adcmodule.o
+ .text.ADC_INIT
+                0x00000000       0x2c PERIPHERALS/ADC/adcmodule.o
+ .text.ADC_DISABLE
+                0x00000000        0x4 PERIPHERALS/ADC/adcmodule.o
+ .text.ADC_READ
+                0x00000000       0x34 PERIPHERALS/ADC/adcmodule.o
+ .debug_info    0x00000000      0x2e9 PERIPHERALS/ADC/adcmodule.o
+ .debug_abbrev  0x00000000       0xc6 PERIPHERALS/ADC/adcmodule.o
+ .debug_loc     0x00000000       0xc7 PERIPHERALS/ADC/adcmodule.o
+ .debug_aranges
+                0x00000000       0x30 PERIPHERALS/ADC/adcmodule.o
+ .debug_ranges  0x00000000       0x20 PERIPHERALS/ADC/adcmodule.o
+ .debug_line    0x00000000      0x177 PERIPHERALS/ADC/adcmodule.o
+ .debug_str     0x00000000      0x558 PERIPHERALS/ADC/adcmodule.o
+ .comment       0x00000000       0x31 PERIPHERALS/ADC/adcmodule.o
+ .debug_frame   0x00000000       0x4c PERIPHERALS/ADC/adcmodule.o
+ .text          0x00000000        0x0 PERIPHERALS/EEPROM/eeprom.o
+ .data          0x00000000        0x0 PERIPHERALS/EEPROM/eeprom.o
+ .bss           0x00000000        0x0 PERIPHERALS/EEPROM/eeprom.o
+ .text          0x00000000        0x0 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .data          0x00000000        0x0 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .bss           0x00000000        0x0 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .text.external_int_disable
+                0x00000000       0x10 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .text          0x00000000        0x0 PERIPHERALS/SPI/spi.o
+ .data          0x00000000        0x0 PERIPHERALS/SPI/spi.o
+ .bss           0x00000000        0x0 PERIPHERALS/SPI/spi.o
+ .text.SPI_EXCHANGE_PULL
+                0x00000000       0x12 PERIPHERALS/SPI/spi.o
+ .text.SPI_SEND_INTR
+                0x00000000        0xa PERIPHERALS/SPI/spi.o
+ .text.SPI_RECV_INTR
+                0x00000000        0x8 PERIPHERALS/SPI/spi.o
+ COMMON         0x00000000        0x3 PERIPHERALS/SPI/spi.o
+ .text          0x00000000        0x0 PERIPHERALS/TIMERS/TIMER0.o
+ .data          0x00000000        0x0 PERIPHERALS/TIMERS/TIMER0.o
+ .bss           0x00000000        0x0 PERIPHERALS/TIMERS/TIMER0.o
+ .text.TIMER0_DISABLE
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER0.o
+ .text.TIMER0_CTC_WAVE_GENERATE
+                0x00000000       0x58 PERIPHERALS/TIMERS/TIMER0.o
+ .text.TIMER0_FREQUANCY_DIVIDER
+                0x00000000       0x4e PERIPHERALS/TIMERS/TIMER0.o
+ .text.TIMER0_FAST_PWM_OC0
+                0x00000000       0x8a PERIPHERALS/TIMERS/TIMER0.o
+ .text.TIMER0_SET_COUNTER
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER0.o
+ .text.TIMER0_READ_OCR0
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER0.o
+ .text.TIMER0_SET_OCR0
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER0.o
+ .bss.clock_carry
+                0x00000000        0x8 PERIPHERALS/TIMERS/TIMER0.o
+ .text          0x00000000        0x0 PERIPHERALS/TIMERS/TIMER1.o
+ .data          0x00000000        0x0 PERIPHERALS/TIMERS/TIMER1.o
+ .bss           0x00000000        0x0 PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_READ_COUNTER
+                0x00000000        0xa PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_SET_COUNTER
+                0x00000000        0x6 PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_DISABLE
+                0x00000000        0xa PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_READ_OCR1A
+                0x00000000       0x2c PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_SET_OCR1A
+                0x00000000        0x6 PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_SET_OCR1B
+                0x00000000        0x6 PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_READ_OCR1B
+                0x00000000        0xa PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_SET_OCR1C
+                0x00000000        0xa PERIPHERALS/TIMERS/TIMER1.o
+ .text.TIMER1_READ_OCR1C
+                0x00000000        0xe PERIPHERALS/TIMERS/TIMER1.o
+ .text          0x00000000        0x0 PERIPHERALS/TIMERS/TIMER2.o
+ .data          0x00000000        0x0 PERIPHERALS/TIMERS/TIMER2.o
+ .bss           0x00000000        0x0 PERIPHERALS/TIMERS/TIMER2.o
+ .text.TIMER2_READ_COUNTER
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER2.o
+ .text.TIMER2_SET_COUNTER
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER2.o
+ .text.TIMER2_READ_OCR2
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER2.o
+ .text.TIMER2_SET_OCR2
+                0x00000000        0x4 PERIPHERALS/TIMERS/TIMER2.o
+ .text          0x00000000        0x0 PERIPHERALS/UART/UART_2P.o
+ .data          0x00000000        0x0 PERIPHERALS/UART/UART_2P.o
+ .bss           0x00000000        0x0 PERIPHERALS/UART/UART_2P.o
+ .text.USART0_RECEIVE_byte
+                0x00000000       0xce PERIPHERALS/UART/UART_2P.o
+ .text.USART0_SEND_byte
+                0x00000000       0x5c PERIPHERALS/UART/UART_2P.o
+ .text.USART0_DISABLE
+                0x00000000        0x8 PERIPHERALS/UART/UART_2P.o
+ .text.USART1_DISABLE
+                0x00000000        0xa PERIPHERALS/UART/UART_2P.o
+ .text.USART0_SEND_str
+                0x00000000       0x80 PERIPHERALS/UART/UART_2P.o
+ .text.USART1_SEND_str
+                0x00000000       0x80 PERIPHERALS/UART/UART_2P.o
+ .text.USART0_SEND_ARRAY
+                0x00000000       0x38 PERIPHERALS/UART/UART_2P.o
+ .text          0x00000000        0x0 PROTOCOL/protocol.o
+ .data          0x00000000        0x0 PROTOCOL/protocol.o
+ .bss           0x00000000        0x0 PROTOCOL/protocol.o
+ .text          0x00000000        0x0 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .data          0x00000000        0x0 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .bss           0x00000000        0x0 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .text          0x00000000        0x0 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .data          0x00000000        0x0 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .bss           0x00000000        0x0 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .text          0x00000000        0x0 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .data          0x00000000        0x0 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .bss           0x00000000        0x0 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .text.SENSOR_SAVE_ALL
+                0x00000000      0x100 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .text          0x00000000        0x0 TEST/TEST.o
+ .data          0x00000000        0x0 TEST/TEST.o
+ .bss           0x00000000        0x0 TEST/TEST.o
+ .text.TEST_ADD_SENSOR
+                0x00000000      0x13e TEST/TEST.o
+ .rodata.str1.1
+                0x00000000       0x43 TEST/TEST.o
+ .text.TEST_ADD_IOT_PARAMETERS
+                0x00000000       0xbc TEST/TEST.o
+ .text.TEST_ADD_USER_PASS
+                0x00000000       0xb2 TEST/TEST.o
+ .text.TEST_UART_SEND_ARRAY
+                0x00000000        0x2 TEST/TEST.o
+ .bss.i.1794    0x00000000        0x1 TEST/TEST.o
+ .text          0x00000000        0x0 TIMERS/TIMER.o
+ .data          0x00000000        0x0 TIMERS/TIMER.o
+ .bss           0x00000000        0x0 TIMERS/TIMER.o
+ .text          0x00000000        0x0 WIFI/WIFI.o
+ .data          0x00000000        0x0 WIFI/WIFI.o
+ .bss           0x00000000        0x0 WIFI/WIFI.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc   0x00000000       0x12 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+LOAD BLUETOOTH/BLUETOOTH.o
+LOAD DATA_STRUCTURE/queue.o
+LOAD INTERFACE/INTERFACE.o
+LOAD LED_GRID/LED_GRID.o
+LOAD MAIN/MAIN_DRIVER.o
+LOAD MASTER_CONT_1.o
+LOAD MCUL/microconfigrations.o
+LOAD MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+LOAD MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+LOAD MODULES/NRF_MODULE/NRF24L01.o
+LOAD PERIPHERALS/ADC/adcmodule.o
+LOAD PERIPHERALS/EEPROM/eeprom.o
+LOAD PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+LOAD PERIPHERALS/SPI/spi.o
+LOAD PERIPHERALS/TIMERS/TIMER0.o
+LOAD PERIPHERALS/TIMERS/TIMER1.o
+LOAD PERIPHERALS/TIMERS/TIMER2.o
+LOAD PERIPHERALS/UART/UART_2P.o
+LOAD PROTOCOL/protocol.o
+LOAD PROTOCOL/SECURITY/SECURITY_DRIVER.o
+LOAD RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+LOAD SENSOR_MANAGE/SENSOR_MANAGE.o
+LOAD TEST/TEST.o
+LOAD TIMERS/TIMER.o
+LOAD WIFI/WIFI.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x6856
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.BLUETOOTH_IDLE_RX
+                0x0000008c       0x1e BLUETOOTH/BLUETOOTH.o
+ .progmem.gcc_sw_table.RX0_ISR
+                0x000000aa       0x1a BLUETOOTH/BLUETOOTH.o
+                0x000000c4                . = ALIGN (0x2)
+                0x000000c4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c4                __trampolines_end = .
+ *(.progmem*)
+                0x000000c4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c4                __ctors_start = .
+ *(.ctors)
+                0x000000c4                __ctors_end = .
+                0x000000c4                __dtors_start = .
+ *(.dtors)
+                0x000000c4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c4        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+                0x000000c4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c4        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d0       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                0x000000d0                __do_copy_data
+ .init4         0x000000ea       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x000000ea                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000fa        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+ *(.init9)
+ *(.text)
+ .text          0x00000100        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128a.o
+                0x00000100                __vector_22
+                0x00000100                __vector_28
+                0x00000100                __vector_1
+                0x00000100                __vector_32
+                0x00000100                __vector_34
+                0x00000100                __vector_24
+                0x00000100                __vector_12
+                0x00000100                __bad_interrupt
+                0x00000100                __vector_6
+                0x00000100                __vector_31
+                0x00000100                __vector_3
+                0x00000100                __vector_23
+                0x00000100                __vector_30
+                0x00000100                __vector_25
+                0x00000100                __vector_11
+                0x00000100                __vector_13
+                0x00000100                __vector_17
+                0x00000100                __vector_19
+                0x00000100                __vector_27
+                0x00000100                __vector_5
+                0x00000100                __vector_33
+                0x00000100                __vector_4
+                0x00000100                __vector_9
+                0x00000100                __vector_2
+                0x00000100                __vector_21
+                0x00000100                __vector_15
+                0x00000100                __vector_29
+                0x00000100                __vector_8
+                0x00000100                __vector_26
+                0x00000102                . = ALIGN (0x2)
+ *(.text.*)
+ .text.BLUETOOTH_SETUP
+                0x00000102       0x4e BLUETOOTH/BLUETOOTH.o
+                0x00000102                BLUETOOTH_SETUP
+ .text.TX0_ISR  0x00000150       0x3a BLUETOOTH/BLUETOOTH.o
+                0x00000150                TX0_ISR
+ .text.RESET_ALL_COMMAND_RX
+                0x0000018a       0x1e BLUETOOTH/BLUETOOTH.o
+                0x0000018a                RESET_ALL_COMMAND_RX
+ .text.DELETE_ALL_SENSORS_COMMAND_RX
+                0x000001a8       0x1c BLUETOOTH/BLUETOOTH.o
+                0x000001a8                DELETE_ALL_SENSORS_COMMAND_RX
+ .text.READ_STATE_OF_SENSOR_COMMAND_RX
+                0x000001c4       0x1e BLUETOOTH/BLUETOOTH.o
+                0x000001c4                READ_STATE_OF_SENSOR_COMMAND_RX
+ .text.READ_CONNECTION_OF_SENSOR_COMMAND_RX
+                0x000001e2       0x1e BLUETOOTH/BLUETOOTH.o
+                0x000001e2                READ_CONNECTION_OF_SENSOR_COMMAND_RX
+ .text.READ_NUM_OF_SENSORS_COMMAND_RX
+                0x00000200       0x1e BLUETOOTH/BLUETOOTH.o
+                0x00000200                READ_NUM_OF_SENSORS_COMMAND_RX
+ .text.READ_MASTER_VER_COMMAND_RX
+                0x0000021e       0x1a BLUETOOTH/BLUETOOTH.o
+                0x0000021e                READ_MASTER_VER_COMMAND_RX
+ .text.READ_MASTER_ADDRESS_COMMAND_RX
+                0x00000238       0x34 BLUETOOTH/BLUETOOTH.o
+                0x00000238                READ_MASTER_ADDRESS_COMMAND_RX
+ .text.READ_SENSOR_INFO_COMMAND_RX
+                0x0000026c       0x1e BLUETOOTH/BLUETOOTH.o
+                0x0000026c                READ_SENSOR_INFO_COMMAND_RX
+ .text.RECIVE_USER_PASS_COMMAND_RX
+                0x0000028a       0x1e BLUETOOTH/BLUETOOTH.o
+                0x0000028a                RECIVE_USER_PASS_COMMAND_RX
+ .text.RECIVE_IOT_PAR_COMMAND_RX
+                0x000002a8       0x1e BLUETOOTH/BLUETOOTH.o
+                0x000002a8                RECIVE_IOT_PAR_COMMAND_RX
+ .text.RECIVE_ADD_NEW_SENSOR_COMMAND_RX
+                0x000002c6       0x34 BLUETOOTH/BLUETOOTH.o
+                0x000002c6                RECIVE_ADD_NEW_SENSOR_COMMAND_RX
+ .text.RECIVE_ENABLE_SENSOR_COMMAND_RX
+                0x000002fa       0x34 BLUETOOTH/BLUETOOTH.o
+                0x000002fa                RECIVE_ENABLE_SENSOR_COMMAND_RX
+ .text.RECIVE_DISABLE_SENSOR_COMMAND_RX
+                0x0000032e       0x32 BLUETOOTH/BLUETOOTH.o
+                0x0000032e                RECIVE_DISABLE_SENSOR_COMMAND_RX
+ .text.RECIVE_DELETE_SENSOR_COMMAND_RX
+                0x00000360       0x34 BLUETOOTH/BLUETOOTH.o
+                0x00000360                RECIVE_DELETE_SENSOR_COMMAND_RX
+ .text.RECIVE_ADJUST_LED_COMMAND_RX
+                0x00000394       0x1e BLUETOOTH/BLUETOOTH.o
+                0x00000394                RECIVE_ADJUST_LED_COMMAND_RX
+ .text.BLUETOOTH_IDLE_RX
+                0x000003b2       0x50 BLUETOOTH/BLUETOOTH.o
+                0x000003b2                BLUETOOTH_IDLE_RX
+ .text.BLUETOOTH_RESET_ALL_SURE
+                0x00000402       0x22 BLUETOOTH/BLUETOOTH.o
+                0x00000402                BLUETOOTH_RESET_ALL_SURE
+ .text.BLUETOOTH_RECIVING_RESET_SURE
+                0x00000424       0x22 BLUETOOTH/BLUETOOTH.o
+                0x00000424                BLUETOOTH_RECIVING_RESET_SURE
+ .text.BLUETOOTH_RECIVING_USER_PASS_RX
+                0x00000446       0x9a BLUETOOTH/BLUETOOTH.o
+                0x00000446                BLUETOOTH_RECIVING_USER_PASS_RX
+ .text.BLUETOOTH_RECIVING_IOT_PAR_RX
+                0x000004e0       0xb2 BLUETOOTH/BLUETOOTH.o
+                0x000004e0                BLUETOOTH_RECIVING_IOT_PAR_RX
+ .text.BLUETOOTH_RECIVING_ADD_SENSOR_RX
+                0x00000592       0x92 BLUETOOTH/BLUETOOTH.o
+                0x00000592                BLUETOOTH_RECIVING_ADD_SENSOR_RX
+ .text.BLUETOOTH_RECIVING_ENABLE_SENSOR_RX
+                0x00000624       0x62 BLUETOOTH/BLUETOOTH.o
+                0x00000624                BLUETOOTH_RECIVING_ENABLE_SENSOR_RX
+ .text.BLUETOOTH_RECIVING_DISABLE_SENSOR_RX
+                0x00000686       0x62 BLUETOOTH/BLUETOOTH.o
+                0x00000686                BLUETOOTH_RECIVING_DISABLE_SENSOR_RX
+ .text.BLUETOOTH_RECIVING_DELETE_SENSOR_RX
+                0x000006e8       0x62 BLUETOOTH/BLUETOOTH.o
+                0x000006e8                BLUETOOTH_RECIVING_DELETE_SENSOR_RX
+ .text.BLUETOOTH_RECIVING_ADJUST_LED_RX
+                0x0000074a       0x7a BLUETOOTH/BLUETOOTH.o
+                0x0000074a                BLUETOOTH_RECIVING_ADJUST_LED_RX
+ .text.BLUETOOTH_READING_STATE_SENSOR_RX
+                0x000007c4       0x78 BLUETOOTH/BLUETOOTH.o
+                0x000007c4                BLUETOOTH_READING_STATE_SENSOR_RX
+ .text.BLUETOOTH_READING_CONNECTED_SENSOR_RX
+                0x0000083c       0x78 BLUETOOTH/BLUETOOTH.o
+                0x0000083c                BLUETOOTH_READING_CONNECTED_SENSOR_RX
+ .text.BLUETOOTH_READING_SENSOR_INFO_RX
+                0x000008b4      0x13a BLUETOOTH/BLUETOOTH.o
+                0x000008b4                BLUETOOTH_READING_SENSOR_INFO_RX
+ .text.RX0_ISR  0x000009ee       0xa0 BLUETOOTH/BLUETOOTH.o
+                0x000009ee                RX0_ISR
+ .text.BLUETOOTH_IO_SETUP
+                0x00000a8e       0x1e BLUETOOTH/BLUETOOTH.o
+                0x00000a8e                BLUETOOTH_IO_SETUP
+ .text.BLUETOOTH_LOOP
+                0x00000aac       0x10 BLUETOOTH/BLUETOOTH.o
+                0x00000aac                BLUETOOTH_LOOP
+ .text.TIMER2_ISR
+                0x00000abc       0x24 BLUETOOTH/BLUETOOTH.o
+                0x00000abc                TIMER2_ISR
+ .text.QUEUE_INTILIZE_ARRAY_U8
+                0x00000ae0        0xc DATA_STRUCTURE/queue.o
+                0x00000ae0                QUEUE_INTILIZE_ARRAY_U8
+ .text.QUEUE_ADD_ARRAY_U8
+                0x00000aec       0x58 DATA_STRUCTURE/queue.o
+                0x00000aec                QUEUE_ADD_ARRAY_U8
+ .text.QUEUE_GET_FRONT_ARRAY_U8
+                0x00000b44       0x1e DATA_STRUCTURE/queue.o
+                0x00000b44                QUEUE_GET_FRONT_ARRAY_U8
+ .text.QUEUE_DELETE_FRONT_ARRAY_U8
+                0x00000b62       0x1a DATA_STRUCTURE/queue.o
+                0x00000b62                QUEUE_DELETE_FRONT_ARRAY_U8
+ .text.LED_GRID_IO_SETUP
+                0x00000b7c       0x38 LED_GRID/LED_GRID.o
+                0x00000b7c                LED_GRID_IO_SETUP
+ .text.LED_GRID_LOAD
+                0x00000bb4       0x5e LED_GRID/LED_GRID.o
+                0x00000bb4                LED_GRID_LOAD
+ .text.LED_GRID_SETUP
+                0x00000c12        0x4 LED_GRID/LED_GRID.o
+                0x00000c12                LED_GRID_SETUP
+ .text.LOOP_LED_GRID
+                0x00000c16       0x34 LED_GRID/LED_GRID.o
+                0x00000c16                LOOP_LED_GRID
+ .text.LED_GRID_TIMER_INT
+                0x00000c4a       0x2e LED_GRID/LED_GRID.o
+                0x00000c4a                LED_GRID_TIMER_INT
+ .text.OTHER_SETUPS_IO
+                0x00000c78       0x1e MAIN/MAIN_DRIVER.o
+                0x00000c78                OTHER_SETUPS_IO
+ .text.SETUP    0x00000c96       0xb6 MAIN/MAIN_DRIVER.o
+                0x00000c96                SETUP
+ .text.SENSORS_RESET_LOOP
+                0x00000d4c       0x12 MAIN/MAIN_DRIVER.o
+                0x00000d4c                SENSORS_RESET_LOOP
+ .text.RESET_ALL_LOOP
+                0x00000d5e       0x16 MAIN/MAIN_DRIVER.o
+                0x00000d5e                RESET_ALL_LOOP
+ .text.LOOP     0x00000d74       0x1a MAIN/MAIN_DRIVER.o
+                0x00000d74                LOOP
+ .text.__vector_14
+                0x00000d8e       0x58 MASTER_CONT_1.o
+                0x00000d8e                __vector_14
+ .text.__vector_16
+                0x00000de6       0x50 MASTER_CONT_1.o
+                0x00000de6                __vector_16
+ .text.__vector_18
+                0x00000e36       0x4e MASTER_CONT_1.o
+                0x00000e36                __vector_18
+ .text.__vector_10
+                0x00000e84       0x4e MASTER_CONT_1.o
+                0x00000e84                __vector_10
+ .text.__vector_7
+                0x00000ed2       0x50 MASTER_CONT_1.o
+                0x00000ed2                __vector_7
+ .text.__vector_20
+                0x00000f22       0x4e MASTER_CONT_1.o
+                0x00000f22                __vector_20
+ .text.__vector_default
+                0x00000f70       0x14 MASTER_CONT_1.o
+                0x00000f70                __vector_default
+ .text.main     0x00000f84        0x6 MASTER_CONT_1.o
+                0x00000f84                main
+ .text.gpio_inputconfg
+                0x00000f8a       0x3a MCUL/microconfigrations.o
+                0x00000f8a                gpio_inputconfg
+ .text.gpio_outputconfg
+                0x00000fc4       0x3a MCUL/microconfigrations.o
+                0x00000fc4                gpio_outputconfg
+ .text.ESP_READ_CHAR_AND_CHECK
+                0x00000ffe       0x3c MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00000ffe                ESP_READ_CHAR_AND_CHECK
+ .text.ESP_CHECK_OK_RESP
+                0x0000103a       0x74 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x0000103a                ESP_CHECK_OK_RESP
+ .text.ESP_AT_COMMAND
+                0x000010ae       0xa6 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x000010ae                ESP_AT_COMMAND
+ .text.ESP_ATE_COMMAND
+                0x00001154       0x48 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00001154                ESP_ATE_COMMAND
+ .text.ESP_CWMODE_1
+                0x0000119c       0x36 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x0000119c                ESP_CWMODE_1
+ .text.ESP_CWLAPOPT_1
+                0x000011d2       0x36 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x000011d2                ESP_CWLAPOPT_1
+ .text.ESP_CIPSTATUS
+                0x00001208       0x96 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00001208                ESP_CIPSTATUS
+ .text.ESP_CWJAP_CUR
+                0x0000129e       0xba MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x0000129e                ESP_CWJAP_CUR
+ .text.ESP_OPEN_SOCKET
+                0x00001358       0x5c MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00001358                ESP_OPEN_SOCKET
+ .text.ESP_SEND_WRITE_HTTP_DATA
+                0x000013b4      0x154 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x000013b4                ESP_SEND_WRITE_HTTP_DATA
+ .text.ESP_SEND_READ_HTTP_DATA
+                0x00001508      0x2f0 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00001508                ESP_SEND_READ_HTTP_DATA
+ .text.ESP_SETUP
+                0x000017f8       0x16 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x000017f8                ESP_SETUP
+ .text.ESP_CONNECT_AP
+                0x0000180e       0xc2 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x0000180e                ESP_CONNECT_AP
+ .text.ESP_WRITE_HTTP
+                0x000018d0       0x68 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x000018d0                ESP_WRITE_HTTP
+ .text.ESP_READ_HTTP
+                0x00001938       0x64 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00001938                ESP_READ_HTTP
+ .text.inttostring
+                0x0000199c      0x3a2 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+                0x0000199c                inttostring
+ .text.STRINGTOINT
+                0x00001d3e       0xe8 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+                0x00001d3e                STRINGTOINT
+ .text.NRF_SPI_EXCHANGE
+                0x00001e26        0xa MODULES/NRF_MODULE/NRF24L01.o
+                0x00001e26                NRF_SPI_EXCHANGE
+ .text.NRF_WRITE_REGISTER
+                0x00001e30       0x24 MODULES/NRF_MODULE/NRF24L01.o
+                0x00001e30                NRF_WRITE_REGISTER
+ .text.NRF_READ_REGISTER
+                0x00001e54       0x1c MODULES/NRF_MODULE/NRF24L01.o
+                0x00001e54                NRF_READ_REGISTER
+ .text.NRF_R_RX_PAYLOAD_DYNAMIC
+                0x00001e70       0x3e MODULES/NRF_MODULE/NRF24L01.o
+                0x00001e70                NRF_R_RX_PAYLOAD_DYNAMIC
+ .text.NRF_W_TX_PAYLOAD_ACK
+                0x00001eae       0x3c MODULES/NRF_MODULE/NRF24L01.o
+                0x00001eae                NRF_W_TX_PAYLOAD_ACK
+ .text.NRF_FLUSH_TX_BUFFER
+                0x00001eea        0xe MODULES/NRF_MODULE/NRF24L01.o
+                0x00001eea                NRF_FLUSH_TX_BUFFER
+ .text.NRF_FLUSH_RX_BUFFER
+                0x00001ef8        0xe MODULES/NRF_MODULE/NRF24L01.o
+                0x00001ef8                NRF_FLUSH_RX_BUFFER
+ .text.NRF_READ_LENGTH_RX_PL
+                0x00001f06       0x12 MODULES/NRF_MODULE/NRF24L01.o
+                0x00001f06                NRF_READ_LENGTH_RX_PL
+ .text.NRF_READ_RX_DR_AND_CLEAR
+                0x00001f18       0x2a MODULES/NRF_MODULE/NRF24L01.o
+                0x00001f18                NRF_READ_RX_DR_AND_CLEAR
+ .text.NRF_READ_TX_DS_AND_CLEAR
+                0x00001f42       0x2a MODULES/NRF_MODULE/NRF24L01.o
+                0x00001f42                NRF_READ_TX_DS_AND_CLEAR
+ .text.NRF_READ_MAX_RT_AND_CLEAR
+                0x00001f6c       0x2a MODULES/NRF_MODULE/NRF24L01.o
+                0x00001f6c                NRF_READ_MAX_RT_AND_CLEAR
+ .text.NRF_SET_TX_MODE
+                0x00001f96       0x24 MODULES/NRF_MODULE/NRF24L01.o
+                0x00001f96                NRF_SET_TX_MODE
+ .text.NRF_SET_RX_MODE
+                0x00001fba       0x24 MODULES/NRF_MODULE/NRF24L01.o
+                0x00001fba                NRF_SET_RX_MODE
+ .text.NRF_UPDATE_PIPE_RX_ADDRESS
+                0x00001fde       0x3e MODULES/NRF_MODULE/NRF24L01.o
+                0x00001fde                NRF_UPDATE_PIPE_RX_ADDRESS
+ .text.NRF_UPDATE_TX_ADDRESS
+                0x0000201c       0x3c MODULES/NRF_MODULE/NRF24L01.o
+                0x0000201c                NRF_UPDATE_TX_ADDRESS
+ .text.NRF_UPDATE_USED_CHANNEL
+                0x00002058        0xc MODULES/NRF_MODULE/NRF24L01.o
+                0x00002058                NRF_UPDATE_USED_CHANNEL
+ .text.NRF_IO_SETUP
+                0x00002064       0x32 MODULES/NRF_MODULE/NRF24L01.o
+                0x00002064                NRF_IO_SETUP
+ .text.NRF_SETUP_USED_CONFIG
+                0x00002096       0xe2 MODULES/NRF_MODULE/NRF24L01.o
+                0x00002096                NRF_SETUP_USED_CONFIG
+ .text.NRF_SEND_DATA_WITH_ACK
+                0x00002178       0x7e MODULES/NRF_MODULE/NRF24L01.o
+                0x00002178                NRF_SEND_DATA_WITH_ACK
+ .text.NRF_START_RX_MODE
+                0x000021f6       0x1c MODULES/NRF_MODULE/NRF24L01.o
+                0x000021f6                NRF_START_RX_MODE
+ .text.NRF_STOP_RX_MODE
+                0x00002212       0x18 MODULES/NRF_MODULE/NRF24L01.o
+                0x00002212                NRF_STOP_RX_MODE
+ .text.NRF_CHECK_RX_PL
+                0x0000222a       0x34 MODULES/NRF_MODULE/NRF24L01.o
+                0x0000222a                NRF_CHECK_RX_PL
+ .text.readeeprom
+                0x0000225e       0x10 PERIPHERALS/EEPROM/eeprom.o
+                0x0000225e                readeeprom
+ .text.writeeeprom
+                0x0000226e       0x2e PERIPHERALS/EEPROM/eeprom.o
+                0x0000226e                writeeeprom
+ .text.external_int_enable
+                0x0000229c       0xec PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+                0x0000229c                external_int_enable
+ .text.SPI_INT  0x00002388       0x88 PERIPHERALS/SPI/spi.o
+                0x00002388                SPI_INT
+ .text.TIMER0_ENABLE
+                0x00002410       0x1a PERIPHERALS/TIMERS/TIMER0.o
+                0x00002410                TIMER0_ENABLE
+ .text.TIMER0_READ_COUNTER
+                0x0000242a        0x4 PERIPHERALS/TIMERS/TIMER0.o
+                0x0000242a                TIMER0_READ_COUNTER
+ .text.TIMER1_ENABLE
+                0x0000242e      0x106 PERIPHERALS/TIMERS/TIMER1.o
+                0x0000242e                TIMER1_ENABLE
+ .text.TIMER2_DISABLE
+                0x00002534        0x6 PERIPHERALS/TIMERS/TIMER2.o
+                0x00002534                TIMER2_DISABLE
+ .text.TIMER2_ENABLE
+                0x0000253a       0x7c PERIPHERALS/TIMERS/TIMER2.o
+                0x0000253a                TIMER2_ENABLE
+ .text.USART1_RECEIVE_byte
+                0x000025b6       0x72 PERIPHERALS/UART/UART_2P.o
+                0x000025b6                USART1_RECEIVE_byte
+ .text.USART1_SEND_byte
+                0x00002628       0x62 PERIPHERALS/UART/UART_2P.o
+                0x00002628                USART1_SEND_byte
+ .text.USART0_INIT
+                0x0000268a      0x16c PERIPHERALS/UART/UART_2P.o
+                0x0000268a                USART0_INIT
+ .text.USART1_INIT
+                0x000027f6      0x176 PERIPHERALS/UART/UART_2P.o
+                0x000027f6                USART1_INIT
+ .text.USART1_SEND_ARRAY
+                0x0000296c       0x36 PERIPHERALS/UART/UART_2P.o
+                0x0000296c                USART1_SEND_ARRAY
+ .text.PROTOCOL_SETUP
+                0x000029a2        0x4 PROTOCOL/protocol.o
+                0x000029a2                PROTOCOL_SETUP
+ .text.PROTOCOL_IO_SETUP
+                0x000029a6        0x4 PROTOCOL/protocol.o
+                0x000029a6                PROTOCOL_IO_SETUP
+ .text.PROTOCOL_CHECK_RECIVED_PACKET
+                0x000029aa       0xbc PROTOCOL/protocol.o
+                0x000029aa                PROTOCOL_CHECK_RECIVED_PACKET
+ .text.PROTOCOL_MASTER_CONNECT_TO_SENSOR
+                0x00002a66      0x2a8 PROTOCOL/protocol.o
+                0x00002a66                PROTOCOL_MASTER_CONNECT_TO_SENSOR
+ .text.PROTOCOL_SEND_BEACON
+                0x00002d0e      0x14c PROTOCOL/protocol.o
+                0x00002d0e                PROTOCOL_SEND_BEACON
+ .text.PROTOCOL_SEND_SESSION_KEY
+                0x00002e5a      0x17c PROTOCOL/protocol.o
+                0x00002e5a                PROTOCOL_SEND_SESSION_KEY
+ .text.PROTOCOL_CHANGE_CHANNEL
+                0x00002fd6      0x18e PROTOCOL/protocol.o
+                0x00002fd6                PROTOCOL_CHANGE_CHANNEL
+ .text.PROTOCOL_DATA_SEND
+                0x00003164      0x198 PROTOCOL/protocol.o
+                0x00003164                PROTOCOL_DATA_SEND
+ .text.PROTOCOL_DATA_READ
+                0x000032fc      0x19e PROTOCOL/protocol.o
+                0x000032fc                PROTOCOL_DATA_READ
+ .text.ENCRYPT_ALGORISM_1_V1
+                0x0000349a       0x3c PROTOCOL/SECURITY/SECURITY_DRIVER.o
+                0x0000349a                ENCRYPT_ALGORISM_1_V1
+ .text.DECRYPT_ALGORISM_1_V1
+                0x000034d6       0x3c PROTOCOL/SECURITY/SECURITY_DRIVER.o
+                0x000034d6                DECRYPT_ALGORISM_1_V1
+ .text.ENCRYPT_ALGORISM_2_V1
+                0x00003512       0x36 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+                0x00003512                ENCRYPT_ALGORISM_2_V1
+ .text.DECRYPT_ALGORISM_2_V1
+                0x00003548       0x36 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+                0x00003548                DECRYPT_ALGORISM_2_V1
+ .text.HASH_SESSION_KEY
+                0x0000357e      0x11e PROTOCOL/SECURITY/SECURITY_DRIVER.o
+                0x0000357e                HASH_SESSION_KEY
+ .text.HASH_PASWORD_KEY
+                0x0000369c      0x126 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+                0x0000369c                HASH_PASWORD_KEY
+ .text.GENNERATE_RANDOM_NUMBER
+                0x000037c2       0x6c RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+                0x000037c2                GENNERATE_RANDOM_NUMBER
+ .text.SENSOR_TIMER1
+                0x0000382e      0x104 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0000382e                SENSOR_TIMER1
+ .text.SENSORS_IO_SETUP
+                0x00003932       0x12 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003932                SENSORS_IO_SETUP
+ .text.SENSORS_LOAD_EEPROM
+                0x00003944      0x13c SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003944                SENSORS_LOAD_EEPROM
+ .text.SAVE_OLD_LAST_ENTRY
+                0x00003a80       0x78 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003a80                SAVE_OLD_LAST_ENTRY
+ .text.LOAD_OLD_LAST_ENTRY
+                0x00003af8       0xa8 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003af8                LOAD_OLD_LAST_ENTRY
+ .text.SENSORS_SETUP
+                0x00003ba0       0x16 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003ba0                SENSORS_SETUP
+ .text.SENSOR_SAVE
+                0x00003bb6       0xfe SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003bb6                SENSOR_SAVE
+ .text.NUM_SENSOR_SAVE
+                0x00003cb4        0xe SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003cb4                NUM_SENSOR_SAVE
+ .text.FIND_SENSOR
+                0x00003cc2       0xb6 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003cc2                FIND_SENSOR
+ .text.ADD_NEW_SENSOR
+                0x00003d78       0xb8 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003d78                ADD_NEW_SENSOR
+ .text.DELETE_SENSOR
+                0x00003e30       0x42 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003e30                DELETE_SENSOR
+ .text.DELETE_ALL_SENSOR
+                0x00003e72       0x66 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003e72                DELETE_ALL_SENSOR
+ .text.SENSOR_STATE_ENABLE
+                0x00003ed8       0x38 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003ed8                SENSOR_STATE_ENABLE
+ .text.SENSOR_STATE_DISABLE
+                0x00003f10       0x36 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003f10                SENSOR_STATE_DISABLE
+ .text.SENSORS_CONNECT
+                0x00003f46      0x2f8 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00003f46                SENSORS_CONNECT
+ .text.SENSORS_BEACON
+                0x0000423e      0x20c SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0000423e                SENSORS_BEACON
+ .text.SENSORS_NEW_SESSIONS
+                0x0000444a      0x222 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0000444a                SENSORS_NEW_SESSIONS
+ .text.SENSORS_CHANGE_CHANNEL
+                0x0000466c      0x22c SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0000466c                SENSORS_CHANGE_CHANNEL
+ .text.SENSORS_FILL_SENSOR_BUFFERS
+                0x00004898      0x532 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00004898                SENSORS_FILL_SENSOR_BUFFERS
+ .text.SENSORS_APPLY_SEND_BUFFER
+                0x00004dca      0x8a6 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00004dca                SENSORS_APPLY_SEND_BUFFER
+ .text.SENSORS_APPLY_READ_BUFFER
+                0x00005670      0x6a4 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00005670                SENSORS_APPLY_READ_BUFFER
+ .text.LOOP_SENSORS_MANAGE
+                0x00005d14       0xba SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00005d14                LOOP_SENSORS_MANAGE
+ .text.INT6_ISR
+                0x00005dce        0xc SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00005dce                INT6_ISR
+ .text.TEST_IO_SETUP
+                0x00005dda       0x32 TEST/TEST.o
+                0x00005dda                TEST_IO_SETUP
+ .text.TEST_UART_SEND_str
+                0x00005e0c        0x2 TEST/TEST.o
+                0x00005e0c                TEST_UART_SEND_str
+ .text.TEST_UART_SEND_byte
+                0x00005e0e       0x14 TEST/TEST.o
+                0x00005e0e                TEST_UART_SEND_byte
+ .text.TEST_UART_SEND_VALUE
+                0x00005e22        0x2 TEST/TEST.o
+                0x00005e22                TEST_UART_SEND_VALUE
+ .text.TIMERS_SETUP
+                0x00005e24       0x62 TIMERS/TIMER.o
+                0x00005e24                TIMERS_SETUP
+ .text.TIMER0_INT_EVENT
+                0x00005e86        0x6 TIMERS/TIMER.o
+                0x00005e86                TIMER0_INT_EVENT
+ .text.TIMER1_INT_EVENT
+                0x00005e8c        0x8 TIMERS/TIMER.o
+                0x00005e8c                TIMER1_INT_EVENT
+ .text.WIFI_SETUP_IO
+                0x00005e94       0x12 WIFI/WIFI.o
+                0x00005e94                WIFI_SETUP_IO
+ .text.WIFI_LOAD_PARAMETERS
+                0x00005ea6      0x106 WIFI/WIFI.o
+                0x00005ea6                WIFI_LOAD_PARAMETERS
+ .text.WIFI_SETUP
+                0x00005fac        0x8 WIFI/WIFI.o
+                0x00005fac                WIFI_SETUP
+ .text.WIFI_UPDATE_USER_PASS
+                0x00005fb4       0xc2 WIFI/WIFI.o
+                0x00005fb4                WIFI_UPDATE_USER_PASS
+ .text.WIFI_UPDATE_IOT_PAR
+                0x00006076       0xee WIFI/WIFI.o
+                0x00006076                WIFI_UPDATE_IOT_PAR
+ .text.WIFI_LOOP
+                0x00006164      0x166 WIFI/WIFI.o
+                0x00006164                WIFI_LOOP
+ .text.WIFI_TIMER1
+                0x000062ca       0x4a WIFI/WIFI.o
+                0x000062ca                WIFI_TIMER1
+ .text.WIFI_RESET
+                0x00006314       0x22 WIFI/WIFI.o
+                0x00006314                WIFI_RESET
+ .text.avr-libc.fplib
+                0x00006336        0xa c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                0x00006336                __subsf3
+                0x00006338                __addsf3
+ .text.avr-libc.fplib
+                0x00006340       0xc0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                0x0000635a                __addsf3x
+ .text.avr-libc.fplib
+                0x00006400        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                0x00006400                __divsf3
+ .text.avr-libc.fplib
+                0x00006404       0xcc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                0x0000641a                __divsf3x
+                0x0000641e                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000064d0       0x58 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                0x000064d0                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00006528       0x7a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                0x00006528                __floatunsisf
+                0x0000652c                __floatsisf
+ .text.avr-libc.fplib
+                0x000065a2        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                0x000065a2                __fp_inf
+ .text.avr-libc.fplib
+                0x000065ae        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                0x000065ae                __fp_nan
+ .text.avr-libc.fplib
+                0x000065b4        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                0x000065b4                __fp_pscA
+ .text.avr-libc.fplib
+                0x000065c2        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                0x000065c2                __fp_pscB
+ .text.avr-libc.fplib
+                0x000065d0       0x22 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                0x000065d0                __fp_round
+ .text.avr-libc.fplib
+                0x000065f2       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                0x000065f2                __fp_split3
+                0x00006602                __fp_splitA
+ .text.avr-libc.fplib
+                0x00006636        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                0x00006636                __fp_zero
+                0x00006638                __fp_szero
+ .text.libgcc.div
+                0x00006644       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                0x00006644                __udivmodsi4
+ .text.libgcc   0x00006688        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump.o)
+                0x00006688                __tablejump2__
+                0x0000668c                __tablejump__
+ .text.libgcc.mul
+                0x00006694       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                0x00006694                __umulhisi3
+ .text.libgcc.mul
+                0x000066b2       0x14 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_muluhisi3.o)
+                0x000066b2                __muluhisi3
+ .text.libgcc.div
+                0x000066c6       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivdi3.o)
+                0x000066c6                __umoddi3
+                0x000066ca                __udivdi3
+                0x000066cc                __udivdi3_umoddi3
+ .text.libgcc.div
+                0x000066e0       0xa2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmod64.o)
+                0x000066e0                __udivmod64
+ .text.libgcc   0x00006782       0x20 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_negdi2.o)
+                0x00006782                __negdi2
+ .text.libgcc.builtins
+                0x000067a2       0x32 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashldi3.o)
+                0x000067a2                __ashldi3
+ .text.libgcc.builtins
+                0x000067d4       0x3c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ashrdi3.o)
+                0x000067d4                __ashrdi3
+                0x000067d8                __lshrdi3
+ .text.libgcc   0x00006810       0x12 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3.o)
+                0x00006810                __adddi3
+ .text.libgcc   0x00006822       0x18 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_adddi3_s8.o)
+                0x00006822                __adddi3_s8
+ .text.libgcc   0x0000683a       0x18 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_cmpdi2_s8.o)
+                0x0000683a                __cmpdi2_s8
+                0x00006852                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00006852        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                0x00006852                _exit
+                0x00006852                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00006852        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00006856                _etext = .
+
+.data           0x00800100      0x21c load address 0x00006856
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.LED_GRID_ARRAY
+                0x00800100        0x8 LED_GRID/LED_GRID.o
+                0x00800100                LED_GRID_ARRAY
+ .data.MY_ADDRESS
+                0x00800108        0x5 PROTOCOL/protocol.o
+                0x00800108                MY_ADDRESS
+ .data.RANDOM_NUMBER
+                0x0080010d        0x4 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+                0x0080010d                RANDOM_NUMBER
+ .data.FIRST_READ_FLAG
+                0x00800111        0x1 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00800111                FIRST_READ_FLAG
+ .data.MY_CHANNELS
+                0x00800112        0x8 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00800112                MY_CHANNELS
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080011a       0x10 MAIN/MAIN_DRIVER.o
+ .rodata.str1.1
+                0x0080012a       0xed MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                                 0xf0 (size before relaxing)
+ .rodata.str1.1
+                0x00800217       0x3b PROTOCOL/protocol.o
+                                 0x3d (size before relaxing)
+ .rodata.str1.1
+                0x00800252       0xc9 SENSOR_MANAGE/SENSOR_MANAGE.o
+                                 0xdf (size before relaxing)
+ *(.gnu.linkonce.d*)
+                0x0080031c                . = ALIGN (0x2)
+ *fill*         0x0080031b        0x1 
+                0x0080031c                _edata = .
+                0x0080031c                PROVIDE (__data_end, .)
+
+.bss            0x0080031c      0x491
+                0x0080031c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.TIMER2_WORKING_FLAG
+                0x0080031c        0x1 BLUETOOTH/BLUETOOTH.o
+                0x0080031c                TIMER2_WORKING_FLAG
+ .bss.TIMER2_COUNTER
+                0x0080031d        0x1 BLUETOOTH/BLUETOOTH.o
+                0x0080031d                TIMER2_COUNTER
+ .bss.RX_BUFFER_SIZE
+                0x0080031e        0x1 BLUETOOTH/BLUETOOTH.o
+                0x0080031e                RX_BUFFER_SIZE
+ .bss.COUNER_RX_BUFFER
+                0x0080031f        0x1 BLUETOOTH/BLUETOOTH.o
+                0x0080031f                COUNER_RX_BUFFER
+ .bss.TX_BUFFER_SIZE
+                0x00800320        0x1 BLUETOOTH/BLUETOOTH.o
+                0x00800320                TX_BUFFER_SIZE
+ .bss.COUNER_TX_BUFFER
+                0x00800321        0x1 BLUETOOTH/BLUETOOTH.o
+                0x00800321                COUNER_TX_BUFFER
+ .bss.BLUETOOTH_STATE
+                0x00800322        0x1 BLUETOOTH/BLUETOOTH.o
+                0x00800322                BLUETOOTH_STATE
+ .bss.F_B_NEW_LED_GRID
+                0x00800323        0x1 LED_GRID/LED_GRID.o
+                0x00800323                F_B_NEW_LED_GRID
+ .bss.LED_GRID_COUNTER
+                0x00800324        0x1 LED_GRID/LED_GRID.o
+                0x00800324                LED_GRID_COUNTER
+ .bss.F_B_RESET_ALL
+                0x00800325        0x1 MAIN/MAIN_DRIVER.o
+                0x00800325                F_B_RESET_ALL
+ .bss.F_B_RESET_SENSORS
+                0x00800326        0x1 MAIN/MAIN_DRIVER.o
+                0x00800326                F_B_RESET_SENSORS
+ .bss.WIFI_CONNECT_STAGE
+                0x00800327        0x1 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00800327                WIFI_CONNECT_STAGE
+ .bss.F_WIFI_CONNECT_STAGE_COUNTER
+                0x00800328        0x1 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00800328                F_WIFI_CONNECT_STAGE_COUNTER
+ .bss.SENSOR_READ_BUFFER_LENGTH
+                0x00800329        0x1 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x00800329                SENSOR_READ_BUFFER_LENGTH
+ .bss.SENSOR_SEND_BUFFER_LENGTH
+                0x0080032a        0x1 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0080032a                SENSOR_SEND_BUFFER_LENGTH
+ .bss.DELETE_FLAG
+                0x0080032b        0x1 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0080032b                DELETE_FLAG
+ .bss.DELETE_COUNTER
+                0x0080032c        0x1 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0080032c                DELETE_COUNTER
+ .bss.DELETE_INT_FLAG
+                0x0080032d        0x1 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0080032d                DELETE_INT_FLAG
+ .bss.NUMBER_OF_SENSORS
+                0x0080032e        0x1 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x0080032e                NUMBER_OF_SENSORS
+ .bss.FAILED_READ_HTTP_COUNTER
+                0x0080032f        0x1 WIFI/WIFI.o
+                0x0080032f                FAILED_READ_HTTP_COUNTER
+ .bss.F_B_NEW_IOT_PAR
+                0x00800330        0x1 WIFI/WIFI.o
+                0x00800330                F_B_NEW_IOT_PAR
+ .bss.F_B_NEW_USER_PASS
+                0x00800331        0x1 WIFI/WIFI.o
+                0x00800331                F_B_NEW_USER_PASS
+ .bss.F_WIFI_CONNECTED
+                0x00800332        0x1 WIFI/WIFI.o
+                0x00800332                F_WIFI_CONNECTED
+ *(COMMON)
+ COMMON         0x00800333       0x50 BLUETOOTH/BLUETOOTH.o
+                0x00800333                TX_BUFFER
+                0x0080035b                RX_BUFFER
+ COMMON         0x00800383        0x4 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                0x00800383                NEW_LAST_ENTRY
+ COMMON         0x00800387       0x27 MODULES/NRF_MODULE/NRF24L01.o
+                0x00800387                NRF1
+                0x008003ad                NRF_STATUS
+ COMMON         0x008003ae      0x191 SENSOR_MANAGE/SENSOR_MANAGE.o
+                0x008003ae                SENSOR_SEND_BUFFER
+                0x008003e0                F_B_ADD_NEW_SENSOR
+                0x008003e1                MY_SENSORS
+                0x008004db                B_SENSOR_ADDRESS_L_DELETE
+                0x008004dc                B_SENSOR_ADDRESS_DELETE
+                0x008004e1                F_B_DELETE_SENSOR
+                0x008004e2                B_NEW_SENSOR_BUFFER
+                0x008004fb                OLD_LAST_ENTRY
+                0x008004ff                F_B_ENABLE_SENSOR
+                0x00800500                B_SENSOR_ADDRESS_L_DISABLE
+                0x00800501                SENSOR_READ_BUFFER
+                0x00800533                B_SENSOR_ADDRESS_ENABLE
+                0x00800538                B_SENSOR_ADDRESS_DISABLE
+                0x0080053d                B_SENSOR_ADDRESS_L_ENABLE
+                0x0080053e                F_B_DISABLE_SENSOR
+ COMMON         0x0080053f      0x26e WIFI/WIFI.o
+                0x0080053f                G_RECIVED_DATA
+                0x008005da                PASSWORD
+                0x008005e9                F_B_CH_ID
+                0x008005f3                G_SEND_DATA_QUEUE
+                0x00800736                USER_NAME
+                0x00800745                F_B_USER_NAME
+                0x00800754                F_B_WRITE_KEY
+                0x0080076d                F_B_PASSWORD
+                0x0080077c                F_VALID_USER_PASS
+                0x0080077d                G_CH_ID
+                0x00800787                F_B_FIELD_NUM
+                0x00800788                F_T_TRY_TO_CONNECT
+                0x00800789                F_T_READY_TO_READ
+                0x0080078a                F_B_WRITE_KEY_LENGTH
+                0x0080078b                PASS_LENGTH
+                0x0080078c                F_LAST_RECIVED_DATA_NOT_HANDLED
+                0x0080078d                USER_LENGTH
+                0x0080078e                G_WRITE_KEY
+                0x008007a7                G_WRITE_KEY_LENGTH
+                0x008007a8                G_CH_ID_LENGTH
+                0x008007a9                F_VALID_IOT_PAR
+                0x008007aa                G_FIELD_NUM
+                0x008007ab                F_B_CH_ID_LENGTH
+                0x008007ac                F_T_READY_TO_SEND
+                0x008007ad                PROVIDE (__bss_end, .)
+                0x00006856                __data_load_start = LOADADDR (.data)
+                0x00006a72                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008007ad        0x0
+                0x008007ad                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008007ad                PROVIDE (__noinit_end, .)
+                0x008007ad                _end = .
+                0x008007ad                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 BLUETOOTH/BLUETOOTH.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 DATA_STRUCTURE/queue.o
+ .comment       0x00000000       0x31 LED_GRID/LED_GRID.o
+ .comment       0x00000000       0x31 MAIN/MAIN_DRIVER.o
+ .comment       0x00000000       0x31 MASTER_CONT_1.o
+ .comment       0x00000000       0x31 MCUL/microconfigrations.o
+ .comment       0x00000000       0x31 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .comment       0x00000000       0x31 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .comment       0x00000000       0x31 MODULES/NRF_MODULE/NRF24L01.o
+ .comment       0x00000000       0x31 PERIPHERALS/EEPROM/eeprom.o
+ .comment       0x00000000       0x31 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .comment       0x00000000       0x31 PERIPHERALS/SPI/spi.o
+ .comment       0x00000000       0x31 PERIPHERALS/TIMERS/TIMER0.o
+ .comment       0x00000000       0x31 PERIPHERALS/TIMERS/TIMER1.o
+ .comment       0x00000000       0x31 PERIPHERALS/TIMERS/TIMER2.o
+ .comment       0x00000000       0x31 PERIPHERALS/UART/UART_2P.o
+ .comment       0x00000000       0x31 PROTOCOL/protocol.o
+ .comment       0x00000000       0x31 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .comment       0x00000000       0x31 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .comment       0x00000000       0x31 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .comment       0x00000000       0x31 TEST/TEST.o
+ .comment       0x00000000       0x31 TIMERS/TIMER.o
+ .comment       0x00000000       0x31 WIFI/WIFI.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x900
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x128 BLUETOOTH/BLUETOOTH.o
+ .debug_aranges
+                0x00000128       0x80 DATA_STRUCTURE/queue.o
+ .debug_aranges
+                0x000001a8       0x40 LED_GRID/LED_GRID.o
+ .debug_aranges
+                0x000001e8       0x40 MAIN/MAIN_DRIVER.o
+ .debug_aranges
+                0x00000228       0x58 MASTER_CONT_1.o
+ .debug_aranges
+                0x00000280       0x48 MCUL/microconfigrations.o
+ .debug_aranges
+                0x000002c8       0x90 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .debug_aranges
+                0x00000358       0x28 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .debug_aranges
+                0x00000380       0xf0 MODULES/NRF_MODULE/NRF24L01.o
+ .debug_aranges
+                0x00000470       0x28 PERIPHERALS/EEPROM/eeprom.o
+ .debug_aranges
+                0x00000498       0x28 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .debug_aranges
+                0x000004c0       0x38 PERIPHERALS/SPI/spi.o
+ .debug_aranges
+                0x000004f8       0x60 PERIPHERALS/TIMERS/TIMER0.o
+ .debug_aranges
+                0x00000558       0x68 PERIPHERALS/TIMERS/TIMER1.o
+ .debug_aranges
+                0x000005c0       0x48 PERIPHERALS/TIMERS/TIMER2.o
+ .debug_aranges
+                0x00000608       0x78 PERIPHERALS/UART/UART_2P.o
+ .debug_aranges
+                0x00000680       0x60 PROTOCOL/protocol.o
+ .debug_aranges
+                0x000006e0       0x48 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .debug_aranges
+                0x00000728       0x20 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .debug_aranges
+                0x00000748       0xd8 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .debug_aranges
+                0x00000820       0x58 TEST/TEST.o
+ .debug_aranges
+                0x00000878       0x30 TIMERS/TIMER.o
+ .debug_aranges
+                0x000008a8       0x58 WIFI/WIFI.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xba17
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xed8 BLUETOOTH/BLUETOOTH.o
+ .debug_info    0x00000ed8      0x3aa DATA_STRUCTURE/queue.o
+ .debug_info    0x00001282      0x33a LED_GRID/LED_GRID.o
+ .debug_info    0x000015bc      0x7c2 MAIN/MAIN_DRIVER.o
+ .debug_info    0x00001d7e      0x223 MASTER_CONT_1.o
+ .debug_info    0x00001fa1      0x24f MCUL/microconfigrations.o
+ .debug_info    0x000021f0     0x1470 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .debug_info    0x00003660      0x134 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .debug_info    0x00003794     0x1446 MODULES/NRF_MODULE/NRF24L01.o
+ .debug_info    0x00004bda      0x10d PERIPHERALS/EEPROM/eeprom.o
+ .debug_info    0x00004ce7      0x1a5 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .debug_info    0x00004e8c      0x3e5 PERIPHERALS/SPI/spi.o
+ .debug_info    0x00005271      0x3fe PERIPHERALS/TIMERS/TIMER0.o
+ .debug_info    0x0000566f      0x54b PERIPHERALS/TIMERS/TIMER1.o
+ .debug_info    0x00005bba      0x2e4 PERIPHERALS/TIMERS/TIMER2.o
+ .debug_info    0x00005e9e      0x731 PERIPHERALS/UART/UART_2P.o
+ .debug_info    0x000065cf     0x1270 PROTOCOL/protocol.o
+ .debug_info    0x0000783f      0x2ef PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .debug_info    0x00007b2e       0xcb RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .debug_info    0x00007bf9     0x29ba SENSOR_MANAGE/SENSOR_MANAGE.o
+ .debug_info    0x0000a5b3      0x5a6 TEST/TEST.o
+ .debug_info    0x0000ab59      0x43a TIMERS/TIMER.o
+ .debug_info    0x0000af93      0xa84 WIFI/WIFI.o
+
+.debug_abbrev   0x00000000     0x2145
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x23d BLUETOOTH/BLUETOOTH.o
+ .debug_abbrev  0x0000023d      0x132 DATA_STRUCTURE/queue.o
+ .debug_abbrev  0x0000036f      0x167 LED_GRID/LED_GRID.o
+ .debug_abbrev  0x000004d6      0x1ac MAIN/MAIN_DRIVER.o
+ .debug_abbrev  0x00000682       0xb7 MASTER_CONT_1.o
+ .debug_abbrev  0x00000739       0xfd MCUL/microconfigrations.o
+ .debug_abbrev  0x00000836      0x296 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .debug_abbrev  0x00000acc       0x98 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .debug_abbrev  0x00000b64      0x2d0 MODULES/NRF_MODULE/NRF24L01.o
+ .debug_abbrev  0x00000e34       0xa2 PERIPHERALS/EEPROM/eeprom.o
+ .debug_abbrev  0x00000ed6       0x90 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .debug_abbrev  0x00000f66      0x136 PERIPHERALS/SPI/spi.o
+ .debug_abbrev  0x0000109c      0x155 PERIPHERALS/TIMERS/TIMER0.o
+ .debug_abbrev  0x000011f1      0x1fe PERIPHERALS/TIMERS/TIMER1.o
+ .debug_abbrev  0x000013ef      0x12a PERIPHERALS/TIMERS/TIMER2.o
+ .debug_abbrev  0x00001519      0x179 PERIPHERALS/UART/UART_2P.o
+ .debug_abbrev  0x00001692      0x1c2 PROTOCOL/protocol.o
+ .debug_abbrev  0x00001854       0xa5 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .debug_abbrev  0x000018f9       0x7f RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .debug_abbrev  0x00001978      0x31d SENSOR_MANAGE/SENSOR_MANAGE.o
+ .debug_abbrev  0x00001c95      0x1b2 TEST/TEST.o
+ .debug_abbrev  0x00001e47       0xed TIMERS/TIMER.o
+ .debug_abbrev  0x00001f34      0x211 WIFI/WIFI.o
+
+.debug_line     0x00000000     0x5d9e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0xc6c BLUETOOTH/BLUETOOTH.o
+ .debug_line    0x00000c6c      0x248 DATA_STRUCTURE/queue.o
+ .debug_line    0x00000eb4      0x17c LED_GRID/LED_GRID.o
+ .debug_line    0x00001030      0x36d MAIN/MAIN_DRIVER.o
+ .debug_line    0x0000139d      0x19f MASTER_CONT_1.o
+ .debug_line    0x0000153c      0x10b MCUL/microconfigrations.o
+ .debug_line    0x00001647      0x90c MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .debug_line    0x00001f53      0x13f MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .debug_line    0x00002092      0x78e MODULES/NRF_MODULE/NRF24L01.o
+ .debug_line    0x00002820       0xe9 PERIPHERALS/EEPROM/eeprom.o
+ .debug_line    0x00002909      0x1ba PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .debug_line    0x00002ac3      0x128 PERIPHERALS/SPI/spi.o
+ .debug_line    0x00002beb      0x210 PERIPHERALS/TIMERS/TIMER0.o
+ .debug_line    0x00002dfb      0x2ce PERIPHERALS/TIMERS/TIMER1.o
+ .debug_line    0x000030c9      0x1c8 PERIPHERALS/TIMERS/TIMER2.o
+ .debug_line    0x00003291      0x426 PERIPHERALS/UART/UART_2P.o
+ .debug_line    0x000036b7      0x733 PROTOCOL/protocol.o
+ .debug_line    0x00003dea      0x225 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .debug_line    0x0000400f       0x8e RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .debug_line    0x0000409d     0x13e6 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .debug_line    0x00005483      0x350 TEST/TEST.o
+ .debug_line    0x000057d3      0x122 TIMERS/TIMER.o
+ .debug_line    0x000058f5      0x4a9 WIFI/WIFI.o
+
+.debug_frame    0x00000000     0x1fc0
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2ac BLUETOOTH/BLUETOOTH.o
+ .debug_frame   0x000002ac       0xf4 DATA_STRUCTURE/queue.o
+ .debug_frame   0x000003a0       0x7c LED_GRID/LED_GRID.o
+ .debug_frame   0x0000041c       0x8c MAIN/MAIN_DRIVER.o
+ .debug_frame   0x000004a8      0x250 MASTER_CONT_1.o
+ .debug_frame   0x000006f8       0x74 MCUL/microconfigrations.o
+ .debug_frame   0x0000076c      0x2f0 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .debug_frame   0x00000a5c       0xe4 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .debug_frame   0x00000b40      0x2f0 MODULES/NRF_MODULE/NRF24L01.o
+ .debug_frame   0x00000e30       0x44 PERIPHERALS/EEPROM/eeprom.o
+ .debug_frame   0x00000e74       0x34 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .debug_frame   0x00000ea8       0x70 PERIPHERALS/SPI/spi.o
+ .debug_frame   0x00000f18       0xd4 PERIPHERALS/TIMERS/TIMER0.o
+ .debug_frame   0x00000fec      0x104 PERIPHERALS/TIMERS/TIMER1.o
+ .debug_frame   0x000010f0       0x90 PERIPHERALS/TIMERS/TIMER2.o
+ .debug_frame   0x00001180      0x270 PERIPHERALS/UART/UART_2P.o
+ .debug_frame   0x000013f0      0x2d8 PROTOCOL/protocol.o
+ .debug_frame   0x000016c8      0x164 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .debug_frame   0x0000182c       0x38 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .debug_frame   0x00001864      0x4ec SENSOR_MANAGE/SENSOR_MANAGE.o
+ .debug_frame   0x00001d50       0xc4 TEST/TEST.o
+ .debug_frame   0x00001e14       0x7c TIMERS/TIMER.o
+ .debug_frame   0x00001e90      0x130 WIFI/WIFI.o
+
+.debug_str      0x00000000     0x3d7f
+ *(.debug_str)
+ .debug_str     0x00000000      0xe84 BLUETOOTH/BLUETOOTH.o
+                                0xf02 (size before relaxing)
+ .debug_str     0x00000e84      0x172 DATA_STRUCTURE/queue.o
+                                0x2cb (size before relaxing)
+ .debug_str     0x00000ff6       0x96 LED_GRID/LED_GRID.o
+                                0x2bf (size before relaxing)
+ .debug_str     0x0000108c      0x2b0 MAIN/MAIN_DRIVER.o
+                                0x7db (size before relaxing)
+ .debug_str     0x0000133c       0x9d MASTER_CONT_1.o
+                                0x2a0 (size before relaxing)
+ .debug_str     0x000013d9       0xc3 MCUL/microconfigrations.o
+                                0x2f2 (size before relaxing)
+ .debug_str     0x0000149c      0x2b6 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+                                0x4f7 (size before relaxing)
+ .debug_str     0x00001752       0x62 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+                                0x248 (size before relaxing)
+ .debug_str     0x000017b4     0x1170 MODULES/NRF_MODULE/NRF24L01.o
+                               0x142f (size before relaxing)
+ .debug_str     0x00002924       0x24 PERIPHERALS/EEPROM/eeprom.o
+                                0x216 (size before relaxing)
+ .debug_str     0x00002948      0x177 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+                                0x35b (size before relaxing)
+ .debug_str     0x00002abf       0xc0 PERIPHERALS/SPI/spi.o
+                                0x422 (size before relaxing)
+ .debug_str     0x00002b7f      0x28f PERIPHERALS/TIMERS/TIMER0.o
+                                0x4e6 (size before relaxing)
+ .debug_str     0x00002e0e      0x41e PERIPHERALS/TIMERS/TIMER1.o
+                                0x626 (size before relaxing)
+ .debug_str     0x0000322c       0xa8 PERIPHERALS/TIMERS/TIMER2.o
+                                0x410 (size before relaxing)
+ .debug_str     0x000032d4       0xf0 PERIPHERALS/UART/UART_2P.o
+                                0x620 (size before relaxing)
+ .debug_str     0x000033c4      0x328 PROTOCOL/protocol.o
+                                0x60b (size before relaxing)
+ .debug_str     0x000036ec       0x5c PROTOCOL/SECURITY/SECURITY_DRIVER.o
+                                0x288 (size before relaxing)
+ .debug_str     0x00003748       0x45 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+                                0x235 (size before relaxing)
+ .debug_str     0x0000378d      0x3dd SENSOR_MANAGE/SENSOR_MANAGE.o
+                               0x1439 (size before relaxing)
+ .debug_str     0x00003b6a       0x84 TEST/TEST.o
+                                0x4e5 (size before relaxing)
+ .debug_str     0x00003bee       0x1e TIMERS/TIMER.o
+                                0x6f8 (size before relaxing)
+ .debug_str     0x00003c0c      0x173 WIFI/WIFI.o
+                                0x5e4 (size before relaxing)
+
+.debug_loc      0x00000000     0x8726
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x58e BLUETOOTH/BLUETOOTH.o
+ .debug_loc     0x0000058e      0x373 DATA_STRUCTURE/queue.o
+ .debug_loc     0x00000901       0xeb LED_GRID/LED_GRID.o
+ .debug_loc     0x000009ec       0x7d MAIN/MAIN_DRIVER.o
+ .debug_loc     0x00000a69      0x4f1 MASTER_CONT_1.o
+ .debug_loc     0x00000f5a      0x153 MCUL/microconfigrations.o
+ .debug_loc     0x000010ad     0x1160 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .debug_loc     0x0000220d      0xad7 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .debug_loc     0x00002ce4      0x8ba MODULES/NRF_MODULE/NRF24L01.o
+ .debug_loc     0x0000359e       0xb4 PERIPHERALS/EEPROM/eeprom.o
+ .debug_loc     0x00003652      0x1c1 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .debug_loc     0x00003813      0x1cb PERIPHERALS/SPI/spi.o
+ .debug_loc     0x000039de      0x28e PERIPHERALS/TIMERS/TIMER0.o
+ .debug_loc     0x00003c6c      0x380 PERIPHERALS/TIMERS/TIMER1.o
+ .debug_loc     0x00003fec      0x13d PERIPHERALS/TIMERS/TIMER2.o
+ .debug_loc     0x00004129      0xc58 PERIPHERALS/UART/UART_2P.o
+ .debug_loc     0x00004d81      0xf95 PROTOCOL/protocol.o
+ .debug_loc     0x00005d16      0x929 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .debug_loc     0x0000663f       0x49 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .debug_loc     0x00006688     0x19a7 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .debug_loc     0x0000802f       0xf5 TEST/TEST.o
+ .debug_loc     0x00008124       0xbe TIMERS/TIMER.o
+ .debug_loc     0x000081e2      0x544 WIFI/WIFI.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x808
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x118 BLUETOOTH/BLUETOOTH.o
+ .debug_ranges  0x00000118       0x70 DATA_STRUCTURE/queue.o
+ .debug_ranges  0x00000188       0x30 LED_GRID/LED_GRID.o
+ .debug_ranges  0x000001b8       0x30 MAIN/MAIN_DRIVER.o
+ .debug_ranges  0x000001e8       0x48 MASTER_CONT_1.o
+ .debug_ranges  0x00000230       0x38 MCUL/microconfigrations.o
+ .debug_ranges  0x00000268       0x80 MODULES/ESP_MODULE_SIMPLIFIED/ESP_WIFI_SIMPLIFIED.o
+ .debug_ranges  0x000002e8       0x18 MODULES/ESP_MODULE_SIMPLIFIED/minohelper.o
+ .debug_ranges  0x00000300       0xe0 MODULES/NRF_MODULE/NRF24L01.o
+ .debug_ranges  0x000003e0       0x18 PERIPHERALS/EEPROM/eeprom.o
+ .debug_ranges  0x000003f8       0x18 PERIPHERALS/EXTERNAL_INT/EXINTEREPUT128A.o
+ .debug_ranges  0x00000410       0x28 PERIPHERALS/SPI/spi.o
+ .debug_ranges  0x00000438       0x50 PERIPHERALS/TIMERS/TIMER0.o
+ .debug_ranges  0x00000488       0x58 PERIPHERALS/TIMERS/TIMER1.o
+ .debug_ranges  0x000004e0       0x38 PERIPHERALS/TIMERS/TIMER2.o
+ .debug_ranges  0x00000518       0x68 PERIPHERALS/UART/UART_2P.o
+ .debug_ranges  0x00000580       0x50 PROTOCOL/protocol.o
+ .debug_ranges  0x000005d0       0x38 PROTOCOL/SECURITY/SECURITY_DRIVER.o
+ .debug_ranges  0x00000608       0x10 RANDOM_NUMBER_GENERATORS/RANDOM_NUM_GEN.o
+ .debug_ranges  0x00000618      0x140 SENSOR_MANAGE/SENSOR_MANAGE.o
+ .debug_ranges  0x00000758       0x48 TEST/TEST.o
+ .debug_ranges  0x000007a0       0x20 TIMERS/TIMER.o
+ .debug_ranges  0x000007c0       0x48 WIFI/WIFI.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(MASTER_CONT_1.elf elf32-avr)
+LOAD linker stubs

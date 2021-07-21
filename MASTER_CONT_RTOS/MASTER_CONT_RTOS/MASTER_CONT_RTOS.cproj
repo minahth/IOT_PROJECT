@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>6.2</ProjectVersion>
+    <ToolchainName>com.Atmel.AVRGCC8.C</ToolchainName>
+    <ProjectGuid>{e66b3299-2c0e-4678-93ed-91dd04a98edc}</ProjectGuid>
+    <avrdevice>ATmega128A</avrdevice>
+    <avrdeviceseries>none</avrdeviceseries>
+    <OutputType>Executable</OutputType>
+    <Language>C</Language>
+    <OutputFileName>$(MSBuildProjectName)</OutputFileName>
+    <OutputFileExtension>.elf</OutputFileExtension>
+    <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
+    <AssemblyName>MASTER_CONT_RTOS</AssemblyName>
+    <Name>MASTER_CONT_RTOS</Name>
+    <RootNamespace>MASTER_CONT_RTOS</RootNamespace>
+    <ToolchainFlavour>Native</ToolchainFlavour>
+    <KeepTimersRunning>true</KeepTimersRunning>
+    <OverrideVtor>false</OverrideVtor>
+    <CacheFlash>true</CacheFlash>
+    <ProgFlashFromRam>true</ProgFlashFromRam>
+    <RamSnippetAddress>0x20000000</RamSnippetAddress>
+    <UncachedRange />
+    <preserveEEPROM>true</preserveEEPROM>
+    <OverrideVtorValue>exception_table</OverrideVtorValue>
+    <BootSegment>2</BootSegment>
+    <eraseonlaunchrule>0</eraseonlaunchrule>
+    <AsfFrameworkConfig>
+      <framework-data xmlns="">
+        <options />
+        <configurations />
+        <files />
+        <documentation help="" />
+        <offline-documentation help="" />
+        <dependencies>
+          <content-extension eid="atmel.asf" uuidref="Atmel.ASF" version="3.19.0" />
+        </dependencies>
+      </framework-data>
+    </AsfFrameworkConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <ToolchainSettings>
+      <AvrGcc>
+        <avrgcc.common.optimization.RelaxBranches>True</avrgcc.common.optimization.RelaxBranches>
+        <avrgcc.common.outputfiles.hex>True</avrgcc.common.outputfiles.hex>
+        <avrgcc.common.outputfiles.lss>True</avrgcc.common.outputfiles.lss>
+        <avrgcc.common.outputfiles.eep>True</avrgcc.common.outputfiles.eep>
+        <avrgcc.common.outputfiles.srec>True</avrgcc.common.outputfiles.srec>
+        <avrgcc.common.outputfiles.usersignatures>False</avrgcc.common.outputfiles.usersignatures>
+        <avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>True</avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>
+        <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
+        <avrgcc.compiler.symbols.DefSymbols>
+          <ListValues>
+            <Value>NDEBUG</Value>
+          </ListValues>
+        </avrgcc.compiler.symbols.DefSymbols>
+        <avrgcc.compiler.optimization.level>Optimize for size (-Os)</avrgcc.compiler.optimization.level>
+        <avrgcc.compiler.optimization.PackStructureMembers>True</avrgcc.compiler.optimization.PackStructureMembers>
+        <avrgcc.compiler.optimization.AllocateBytesNeededForEnum>True</avrgcc.compiler.optimization.AllocateBytesNeededForEnum>
+        <avrgcc.compiler.warnings.AllWarnings>True</avrgcc.compiler.warnings.AllWarnings>
+        <avrgcc.linker.libraries.Libraries>
+          <ListValues>
+            <Value>libm</Value>
+          </ListValues>
+        </avrgcc.linker.libraries.Libraries>
+      </AvrGcc>
+    </ToolchainSettings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <ToolchainSettings>
+      <AvrGcc>
+        <avrgcc.common.optimization.RelaxBranches>True</avrgcc.common.optimization.RelaxBranches>
+        <avrgcc.common.outputfiles.hex>True</avrgcc.common.outputfiles.hex>
+        <avrgcc.common.outputfiles.lss>True</avrgcc.common.outputfiles.lss>
+        <avrgcc.common.outputfiles.eep>True</avrgcc.common.outputfiles.eep>
+        <avrgcc.common.outputfiles.srec>True</avrgcc.common.outputfiles.srec>
+        <avrgcc.common.outputfiles.usersignatures>False</avrgcc.common.outputfiles.usersignatures>
+        <avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>True</avrgcc.compiler.general.ChangeDefaultCharTypeUnsigned>
+        <avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>True</avrgcc.compiler.general.ChangeDefaultBitFieldUnsigned>
+        <avrgcc.compiler.symbols.DefSymbols>
+          <ListValues>
+            <Value>DEBUG</Value>
+          </ListValues>
+        </avrgcc.compiler.symbols.DefSymbols>
+        <avrgcc.compiler.directories.IncludePaths>
+          <ListValues>
+            <Value>../OS</Value>
+            <Value>../MCUL</Value>
+            <Value>../PERIPHERALS/ADC</Value>
+            <Value>../PERIPHERALS/EEPROM</Value>
+            <Value>../PERIPHERALS/EXTERNAL_INT</Value>
+            <Value>../PERIPHERALS/SPI</Value>
+            <Value>../PERIPHERALS/TIMERS</Value>
+            <Value>../PERIPHERALS/UART</Value>
+            <Value>../DEFINTIONS</Value>
+            <Value>../HARDWARECONNECTIONS</Value>
+            <Value>../MODULES/ESP_MODULE_SIMPLIFIED</Value>
+            <Value>../MODULES/NRF24L01</Value>
+            <Value>../WIFI</Value>
+            <Value>../DATA_STRUCTURE</Value>
+            <Value>../PROTOCOL</Value>
+            <Value>../PROTOCOL/SECURITY</Value>
+            <Value>../SENSOR_MANAGE</Value>
+            <Value>../RANDOM_NUMBER_GENERATORS</Value>
+            <Value>../TIMERS</Value>
+            <Value>../LED_GRID</Value>
+            <Value>../TEST</Value>
+            <Value>../BLUETOOTH</Value>
+            <Value>../MAIN</Value>
+          </ListValues>
+        </avrgcc.compiler.directories.IncludePaths>
+        <avrgcc.compiler.optimization.level>Optimize (-O1)</avrgcc.compiler.optimization.level>
+        <avrgcc.compiler.optimization.PackStructureMembers>True</avrgcc.compiler.optimization.PackStructureMembers>
+        <avrgcc.compiler.optimization.AllocateBytesNeededForEnum>True</avrgcc.compiler.optimization.AllocateBytesNeededForEnum>
+        <avrgcc.compiler.optimization.DebugLevel>Default (-g2)</avrgcc.compiler.optimization.DebugLevel>
+        <avrgcc.compiler.warnings.AllWarnings>True</avrgcc.compiler.warnings.AllWarnings>
+        <avrgcc.linker.libraries.Libraries>
+          <ListValues>
+            <Value>libm</Value>
+          </ListValues>
+        </avrgcc.linker.libraries.Libraries>
+        <avrgcc.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcc.assembler.debugging.DebugLevel>
+      </AvrGcc>
+    </ToolchainSettings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="BLUETOOTH\BLUETOOTH.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="BLUETOOTH\BLUETOOTH.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="BLUETOOTH\BLUETOOTH_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="BLUETOOTH\EXTERN_FOR_BLUETOOTH.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="DATA_STRUCTURE\Queue1.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="DATA_STRUCTURE\Queue1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="DEFINTIONS\EEPROM_ALLOCATIONS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARECONNECTIONS\HARDWARE_BLUETOOTH.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARECONNECTIONS\HARDWARE_CONNECTIONS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARECONNECTIONS\HARDWARE_CONNECTIONS_NRF.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARECONNECTIONS\HARDWARE_LED_GRID.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARECONNECTIONS\HARDWARE_OTHERS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="HARDWARECONNECTIONS\HARDWARE_WIFI.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="LED_GRID\LED_GRID.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="LED_GRID\LED_GRID.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="LED_GRID\LED_GRID_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MAIN\MAIN_DRIVER.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MAIN\MAIN_DRIVER.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MASTER_CONT_RTOS.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\macros.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\microconfigrations.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\microconfigrations.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MCUL\standerdtypes.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\ESP_MODULE_SIMPLIFIED\ESP_WIFI_SIMPLIFIED.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\ESP_MODULE_SIMPLIFIED\ESP_WIFI_SIMPLIFIED.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\ESP_MODULE_SIMPLIFIED\ESP_WIFI_SIMPLIFIED_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\ESP_MODULE_SIMPLIFIED\minohelper.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\ESP_MODULE_SIMPLIFIED\minohelper.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF24L01\NRF24L01.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF24L01\NRF24L01.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF24L01\NRF24L01_CONFIG.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="MODULES\NRF24L01\NRF24L01_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\croutine.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\croutine.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\deprecated_definitions.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\event_groups.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\event_groups.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\FreeRTOS.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\FreeRTOSConfig.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\heap_2.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\list.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\list.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\message_buffer.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\mpu_prototypes.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\mpu_wrappers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\port.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\portable.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\portmacro.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\projdefs.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\queue.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\queue.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\regtest.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\regtest.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\semphr.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\StackMacros.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\stack_macros.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\stream_buffer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\stream_buffer.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\task.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\tasks.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\timers.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="OS\timers.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\ADC\adcmodule.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\ADC\adcmodule.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\EEPROM\eeprom.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\EEPROM\eeprom.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\EXTERNAL_INT\EXINTEREPUT128A.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\EXTERNAL_INT\EXINTEREPUT128A.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\SPI\spi.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\SPI\spi.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER0.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER0.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER1.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER1.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER2.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER2.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER3.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\TIMERS\TIMER3.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\UART\UART_2P.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PERIPHERALS\UART\UART_2P.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\protocol.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\protocol.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\protocol_define.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\SECURITY\SECURITY_DRIVER.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\SECURITY\SECURITY_DRIVER.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="PROTOCOL\SECURITY\SECURITY_DRIVER_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="RANDOM_NUMBER_GENERATORS\RANDOM_NUM_GEN.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="RANDOM_NUMBER_GENERATORS\RANDOM_NUM_GEN.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SENSOR_MANAGE\SENSOR_MANAGE.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SENSOR_MANAGE\SENSOR_MANAGE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SENSOR_MANAGE\SENSOR_MANAGE_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\TEST.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\TEST.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TEST\TEST_HARDWARE.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TIMERS\TIMER.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="TIMERS\TIMER.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="WIFI\WIFI.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="WIFI\WIFI.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="WIFI\WIFI_DEFINE.h">
+      <SubType>compile</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MCUL" />
+    <Folder Include="DEFINTIONS" />
+    <Folder Include="HARDWARECONNECTIONS" />
+    <Folder Include="MODULES" />
+    <Folder Include="MODULES\ESP_MODULE_SIMPLIFIED" />
+    <Folder Include="MODULES\NRF24L01" />
+    <Folder Include="DATA_STRUCTURE" />
+    <Folder Include="LED_GRID" />
+    <Folder Include="BLUETOOTH" />
+    <Folder Include="MAIN" />
+    <Folder Include="TEST" />
+    <Folder Include="TIMERS" />
+    <Folder Include="RANDOM_NUMBER_GENERATORS" />
+    <Folder Include="SENSOR_MANAGE" />
+    <Folder Include="PROTOCOL" />
+    <Folder Include="PROTOCOL\SECURITY" />
+    <Folder Include="WIFI" />
+    <Folder Include="PERIPHERALS" />
+    <Folder Include="OS" />
+    <Folder Include="PERIPHERALS\ADC" />
+    <Folder Include="PERIPHERALS\EEPROM" />
+    <Folder Include="PERIPHERALS\EXTERNAL_INT" />
+    <Folder Include="PERIPHERALS\UART" />
+    <Folder Include="PERIPHERALS\TIMERS" />
+    <Folder Include="PERIPHERALS\SPI" />
+  </ItemGroup>
+  <Import Project="$(AVRSTUDIO_EXE_PATH)\\Vs\\Compiler.targets" />
+</Project>

@@ -1,0 +1,93 @@
+﻿/*
+ * UART_2P.h
+ *
+ * Created: 09/04/2020 09:13:24 م
+ *  Author: iENG MINA MEDHAT
+ */ 
+
+
+#ifndef UART_2P_H_
+#define UART_2P_H_
+#include "microconfigrations.h"
+#define  max_count_uart0 1000
+#define  max_count_uart1 1000
+#define  ending_char_0   '\0'
+#define  ending_char_1   '\0'
+
+typedef enum{
+				 ASYNCHRONOUS_NORMAL=0x00,  /*at first UCSRC &=10111110 UCSRA &=11111101 */
+				 ASYNCHRONOUS_DOUBLE=0x200,
+				 SYNC_sample_FALLING=0x41,
+				 SYNC_sample_RISING=0x40,
+				
+				}USART_MODE;
+typedef enum{UART_INT_DISABLE,
+	UART_INT_ENABLE,
+	
+} USART_INT_MODE;
+
+typedef enum {  DISABLE=0x00, /*ucsrb &=11100111*/
+	TX_ENABLE=0X08,
+	RX_ENABLE=0x10,
+	TX_RX_ENABLE=0x18,
+}USART_ENABLE;
+typedef enum
+{   PARITY_DISABLE_1STOP=0x00, /*ucsrc=11000111*/
+	PARITY_EVEN_1STOP=0x20,
+	PARITY_DISABLE_2STOP=0x08,
+	PARITY_EVEN_2STOP=0x28,
+	PARITY_ODD_1STOP=0x30,
+	PARITY_ODD_2STOP=0x38,
+	}USART_CONTORL_FRAME; /*STOP BIT PARITY*/
+	typedef enum /*ucsrc =11111001 uscrb =11111011*/
+	{   DATA_5=0x00,
+		DATA_6=0x2,
+		DATA_7=0x4,
+		DATA_8=0x6,
+		DATA_9=0x406,
+	}USART_DATA_FRAME;
+	typedef enum
+	{   USART_BAUD_100=100,
+		USART_BAUD_200=200,
+		USART_BAUD_300=300,
+		USART_BAUD_1200=1200,
+		USART_BAUD_2400=2400,
+		USART_BAUD_4800=4800,
+		USART_BAUD_9600=9600,
+		USART_BAUD_14400=14400,
+		USART_BAUD_19200=19200,
+		USART_BAUD_28800=28800,
+		USART_BAUD_38400=38400,
+		USART_BAUD_57600=57600,
+		USART_BAUD_76800=76800,
+		USART_BAUD_115200=115200,
+		USART_BAUD_230400=230400,
+		USART_BAUD_250k=250000,
+		
+	}USART_BAUDE_RATES;
+	/* 
+	USART1_INIT(ASYNCHRONOUS_NORMAL,UART_INT_DISABLE,UART_INT_DISABLE,UART_INT_DISABLE,TX_RX_ENABLE,PARITY_DISABLE_1STOP,DATA_8,9600);
+	USART0_INIT(ASYNCHRONOUS_NORMAL,UART_INT_DISABLE,UART_INT_DISABLE,UART_INT_DISABLE,TX_RX_ENABLE,PARITY_DISABLE_1STOP,DATA_8,USART_BAUD_38400);
+	*/
+	
+	
+unsigned char USART0_RECEIVE_byte(volatile unsigned char*V,unsigned long long COUNTER);
+unsigned char USART1_RECEIVE_byte(volatile unsigned char*V,unsigned long COUNTER);
+
+unsigned char USART0_SEND_byte(unsigned char DATA);
+unsigned char USART1_SEND_byte(unsigned char DATA);
+
+unsigned char USART0_SEND_str(char *DATA);
+unsigned char USART1_SEND_str(unsigned char *DATA);
+
+unsigned char USART0_SEND_ARRAY(unsigned char *DATA,unsigned short N);
+unsigned char USART1_SEND_ARRAY(unsigned char *DATA,unsigned short N);
+
+void USART0_INIT(USART_MODE mode_of_sync,USART_INT_MODE TX_INT,USART_INT_MODE RX_INT,USART_INT_MODE UDRIE_INT/*NORMALY OFF*/,USART_ENABLE usarttype_TX_RX,USART_CONTORL_FRAME controlframe,USART_DATA_FRAME dataframe,USART_BAUDE_RATES buade_rate);
+void USART1_INIT(USART_MODE mode_of_sync,USART_INT_MODE TX_INT,USART_INT_MODE RX_INT,USART_INT_MODE UDRIE_INT/*NORMALY OFF*/,USART_ENABLE usarttype_TX_RX,USART_CONTORL_FRAME controlframe,USART_DATA_FRAME dataframe,USART_BAUDE_RATES buade_rate);
+
+void USART0_DISABLE();
+void USART1_DISABLE();
+
+
+#endif /* UART_2P_H_ */

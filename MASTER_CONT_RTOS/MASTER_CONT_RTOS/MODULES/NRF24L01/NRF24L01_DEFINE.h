@@ -1,0 +1,307 @@
+/*
+ * NRF24L01_DEFINE.h
+ *
+ * Created: 20-Jan-21 7:37:07 PM
+ *  Author: ideapad510
+ */ 
+
+
+#ifndef NRF24L01_DEFINE_H_
+#define NRF24L01_DEFINE_H_
+/*COMMANDS*/
+#define READ_REGISTER_COMMAND(REGISTER_MAP)  (REGISTER_MAP) 
+#define WRITE_REGISTER_COMMAND(REGISTER_MAP) (0b00100000|REGISTER_MAP)
+#define READ_RX_PAYLOAD_COMMAND			0b01100001
+#define WRITE_TX_PAYLOAD_COMMAND		0b10100000
+#define WRITE_TX_PL_NO_ACK_COMMAND      0b10110000
+#define FLUSH_TX_COMMAND				0b11100001
+#define FLUSH_RX_COMMAND				0b11100010
+#define REUSE_TX_PL_COMMAND				0b11100011
+#define READ_RX_PL_WIDTH_COMMAND		0b01100000
+#define WRITE_ACK_PL_COMMAND(PIPELINE) (0b10101000|PIPELINE)
+#define NRF24L01_NOP_COMMAND			0b11111111 
+/*************/
+/*REGESTER MAP*/
+typedef enum{
+			NRF_CONFIG_ADDRESS=0X00,
+			NRF_ENABLE_AA_ADDRESS=0X01,
+			NRF_ENABLE_RX_ADDRESS_ADDRESS=0X02,
+			NRF_SETUP_AW_ADDRESS=0X03,
+			NRF_SETUP_RETR_ADDRESS=0X04,
+			NRF_RF_CH_ADDRESS=0X05,
+			NRF_RF_SETUP_ADDRESS=0X06,
+			NRF_STATUS_ADDRESS=0X07,
+			NRF_OBSERVE_TX_ADDRESS=0X08,
+			NRF_RPD_ADDRESS=0X09,
+			NRF_RX_ADDR_P0_ADDRESS=0X0A,
+			NRF_RX_ADDR_P1_ADDRESS=0X0B,
+			NRF_RX_ADDR_P2_ADDRESS=0X0C,
+			NRF_RX_ADDR_P3_ADDRESS=0X0D,
+			NRF_RX_ADDR_P4_ADDRESS=0X0E,
+			NRF_RX_ADDR_P5_ADDRESS=0X0F,
+			NRF_TX_ADDR_TX_ADDRESS=0X10,
+			NRF_RX_PW_P0_ADDRESS=0X11,
+			NRF_RX_PW_P1_ADDRESS=0X12,
+			NRF_RX_PW_P2_ADDRESS=0X13,
+			NRF_RX_PW_P3_ADDRESS=0X14,
+			NRF_RX_PW_P4_ADDRESS=0X15,
+			NRF_RX_PW_P5_ADDRESS=0X16,
+			NRF_FIFO_STATUS_ADDRESS=0X17,
+			NRF_DYNPD_ADDRESS=0X1C,
+			NRF_FEATURE_ADDRESS=0X1D,
+			}REGISTER_ADDRESS_DT; 
+/**/
+/*REGISTER*/
+/*CONFIG 0X00*/
+	typedef enum{
+				NRF_PRIM_RX_BIT,
+				NRF_PWR_UP_BIT,
+				NRF_CRCO_BIT,
+				NRF_EN_CRC_BIT,
+				NRF_MASK_MAX_RT_BIT,
+				NRF_MASK_TX_DS_BIT,
+				NRF_MASK_RX_DR_BIT,
+				}NRF_CONFIG_REG_BITS_DT;
+	/*PRIM_RX_BIT MODES */			
+	#define NRT_TX_MODE 0
+	#define NRT_RX_MODE 1
+	/*POWER_ MODE BIT*/
+	#define PWR_UP_MODE 1
+	#define PWR_DOWN_MODE 1
+	/*CRC0*/
+	#define CRC_1_BYTE 0
+	#define CRC_2_BYTE 1
+
+	/*MASKS ARE ACTIVE LOW BITS*/
+/*SETUP_AW 0X03*/
+	/*BIT 0 1*/
+	typedef enum{
+		NRF_3_BYTES_ADD=1,
+		NRF_4_BYTES_ADD=2,
+		NRF_5_BYTES_ADD=3,
+	}NRF_ADD_WIDTH_DT;
+/*SETUP_RETR 0X04*/
+	/*BIT 7:4*/
+	typedef enum{
+		NRF_WAIT_250u=0u,
+		NRF_WAIT_500u=16u,
+		NRF_WAIT_750u=32u,
+		NRF_WAIT_1000u=48u,
+		NRF_WAIT_1250u=64u,
+		NRF_WAIT_1500u=80u,
+		NRF_WAIT_1750u=96u,
+		NRF_WAIT_2000u=112u,
+		NRF_WAIT_2250u=128u,
+		NRF_WAIT_2500u=144u,
+		NRF_WAIT_2750u=160u,
+		NRF_WAIT_3000u=176u,
+		NRF_WAIT_3250u=192u,
+		NRF_WAIT_3500u=208u,
+		NRF_WAIT_3750u=224u,
+		NRF_WAIT_4000u=240u,
+	}NRF_WAIT_TIME_DT;	
+	/*bits 3:0*/
+	typedef enum{
+		NRF_RET_0_DISABLE,
+		NRF_RET_1,
+		NRF_RET_2,
+		NRF_RET_3,
+		NRF_RET_4,
+		NRF_RET_5,
+		NRF_RET_6,
+		NRF_RET_7,
+		NRF_RET_8,
+		NRF_RET_9,
+		NRF_RET_10,
+		NRF_RET_11,
+		NRF_RET_12,
+		NRF_RET_13,
+		NRF_RET_14,
+		NRF_RET_15,
+	}NRF_RETRANSMIT_COUNT_DT;
+/*RF_CH 0X05*/
+	/*BITS 6:0*/
+	typedef enum{
+		NRF_CH_1_R_2_400,
+		NRF_CH_2_R_2_401,
+		NRF_CH_3_R_2_402,
+		NRF_CH_4_R_2_403,
+		NRF_CH_5_R_2_404,
+		NRF_CH_6_R_2_405,
+		NRF_CH_7_R_2_406,
+		NRF_CH_8_R_2_407,
+		NRF_CH_9_R_2_408,
+		NRF_CH_10_R_2_409,
+		NRF_CH_11_R_2_410,
+		NRF_CH_12_R_2_411,
+		NRF_CH_13_R_2_412,
+		NRF_CH_14_R_2_413,
+		NRF_CH_15_R_2_414,
+		NRF_CH_16_R_2_415,
+		NRF_CH_17_R_2_416,
+		NRF_CH_18_R_2_417,
+		NRF_CH_19_R_2_418,
+		NRF_CH_20_R_2_419,
+		NRF_CH_21_R_2_420,
+		NRF_CH_22_R_2_421,
+		NRF_CH_23_R_2_422,
+		NRF_CH_24_R_2_423,
+		NRF_CH_25_R_2_424,
+		NRF_CH_26_R_2_425,
+		NRF_CH_27_R_2_426,
+		NRF_CH_28_R_2_427,
+		NRF_CH_29_R_2_428,
+		NRF_CH_30_R_2_429,
+		NRF_CH_31_R_2_430,
+		NRF_CH_32_R_2_431,
+		NRF_CH_33_R_2_432,
+		NRF_CH_34_R_2_433,
+		NRF_CH_35_R_2_434,
+		NRF_CH_36_R_2_435,
+		NRF_CH_37_R_2_436,
+		NRF_CH_38_R_2_437,
+		NRF_CH_39_R_2_438,
+		NRF_CH_40_R_2_439,
+		NRF_CH_41_R_2_440,
+		NRF_CH_42_R_2_441,
+		NRF_CH_43_R_2_442,
+		NRF_CH_44_R_2_443,
+		NRF_CH_45_R_2_444,
+		NRF_CH_46_R_2_445,
+		NRF_CH_47_R_2_446,
+		NRF_CH_48_R_2_447,
+		NRF_CH_49_R_2_448,
+		NRF_CH_50_R_2_449,
+		NRF_CH_51_R_2_450,
+		NRF_CH_52_R_2_451,
+		NRF_CH_53_R_2_452,
+		NRF_CH_54_R_2_453,
+		NRF_CH_55_R_2_454,
+		NRF_CH_56_R_2_455,
+		NRF_CH_57_R_2_456,
+		NRF_CH_58_R_2_457,
+		NRF_CH_59_R_2_458,
+		NRF_CH_60_R_2_459,
+		NRF_CH_61_R_2_460,
+		NRF_CH_62_R_2_461,
+		NRF_CH_63_R_2_462,
+		NRF_CH_64_R_2_463,
+		NRF_CH_65_R_2_464,
+		NRF_CH_66_R_2_465,
+		NRF_CH_67_R_2_466,
+		NRF_CH_68_R_2_467,
+		NRF_CH_69_R_2_468,
+		NRF_CH_70_R_2_469,
+		NRF_CH_71_R_2_470,
+		NRF_CH_72_R_2_471,
+		NRF_CH_73_R_2_472,
+		NRF_CH_74_R_2_473,
+		NRF_CH_75_R_2_474,
+		NRF_CH_76_R_2_475,
+		NRF_CH_77_R_2_476,
+		NRF_CH_78_R_2_477,
+		NRF_CH_79_R_2_478,
+		NRF_CH_80_R_2_479,
+		NRF_CH_81_R_2_480,
+		NRF_CH_82_R_2_481,
+		NRF_CH_83_R_2_482,
+		NRF_CH_84_R_2_483,
+		NRF_CH_85_R_2_484,
+		NRF_CH_86_R_2_485,
+		NRF_CH_87_R_2_486,
+		NRF_CH_88_R_2_487,
+		NRF_CH_89_R_2_488,
+		NRF_CH_90_R_2_489,
+		NRF_CH_91_R_2_490,
+		NRF_CH_92_R_2_491,
+		NRF_CH_93_R_2_492,
+		NRF_CH_94_R_2_493,
+		NRF_CH_95_R_2_494,
+		NRF_CH_96_R_2_495,
+		NRF_CH_97_R_2_496,
+		NRF_CH_98_R_2_497,
+		NRF_CH_99_R_2_498,
+		NRF_CH_100_R_2_499,
+		NRF_CH_101_R_2_500,
+		NRF_CH_102_R_2_501,
+		NRF_CH_103_R_2_502,
+		NRF_CH_104_R_2_503,
+		NRF_CH_105_R_2_504,
+		NRF_CH_106_R_2_505,
+		NRF_CH_107_R_2_506,
+		NRF_CH_108_R_2_507,
+		NRF_CH_109_R_2_508,
+		NRF_CH_110_R_2_509,
+		NRF_CH_111_R_2_510,
+		NRF_CH_112_R_2_511,
+		NRF_CH_113_R_2_512,
+		NRF_CH_114_R_2_513,
+		NRF_CH_115_R_2_514,
+		NRF_CH_116_R_2_515,
+		NRF_CH_117_R_2_516,
+		NRF_CH_118_R_2_517,
+		NRF_CH_119_R_2_518,
+		NRF_CH_120_R_2_519,
+		NRF_CH_121_R_2_520,
+		NRF_CH_122_R_2_521,
+		NRF_CH_123_R_2_522,
+		NRF_CH_124_R_2_523,
+		NRF_CH_125_R_2_524,
+		NRF_CH_126_R_2_525,
+	}NRF_RF_CHANNEL_DT;	
+/*RF_SETUP 0X06*/
+	/*bits 2:1*/
+	typedef enum{
+		NRF_18dBm=0,
+		NRF_12dBm=2,
+		NRF_6dBm=4,
+		NRF_0dBm=6,
+	}NRF_RF_POWER_DT;
+	/*bits 3,5*/
+	typedef enum{
+		NRF_1Mbps=0,
+		NRF_2Mbps=0b00001000,
+		NRF_250Kbps=0b00100000,
+	}NRF_RF_SPEED_DT;
+	
+	
+	
+	
+	
+typedef struct  {
+						volatile unsigned char  NRF_CONFIG;
+						volatile unsigned char  NRF_ENABLE_AA;
+						volatile unsigned char  NRF_ENABLE_RX_ADDRESS;
+						volatile unsigned char  NRF_SETUP_AW;
+						volatile unsigned char	NRF_SETUP_RETR;
+						volatile unsigned char	NRF_RF_CH;
+						volatile unsigned char	NRF_RF_SETUP;
+						volatile unsigned char	NRF_STATUS;
+						volatile unsigned char	NRF_OBSERVE_TX;
+						volatile unsigned char	NRF_RPD;	
+						volatile unsigned char	NRF_RX_ADDR_P0[5];
+						volatile unsigned char  NRF_RX_ADDR_P1[5];
+						volatile unsigned char  NRF_RX_ADDR_P2;
+						volatile unsigned char	NRF_RX_ADDR_P3;
+						volatile unsigned char  NRF_RX_ADDR_P4 ;
+						volatile unsigned char  NRF_RX_ADDR_P5 ;
+						volatile unsigned char	NRF_TX_ADDR_TX[5] ;
+						volatile unsigned char	NRF_RX_PW_P0 ;
+						volatile unsigned char	NRF_RX_PW_P1 ;
+						volatile unsigned char	NRF_RX_PW_P2 ;
+						volatile unsigned char	NRF_RX_PW_P3 ;
+						volatile unsigned char	NRF_RX_PW_P4 ;
+						volatile unsigned char  NRF_RX_PW_P5 ;
+						volatile unsigned char 	NRF_FIFO_STATUS;
+						volatile unsigned char  NRF_DYNPD;
+						volatile unsigned char	NRF_FEATURE;
+				}NRF_DT;
+	
+	
+	
+	
+	
+	
+	
+	
+#endif /* NRF24L01_DEFINE_H_ */

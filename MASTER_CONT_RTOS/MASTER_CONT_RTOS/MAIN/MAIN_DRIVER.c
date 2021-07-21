@@ -1,0 +1,76 @@
+/*
+ * MAIN_DRIVER.c
+ *
+ * Created: 05-Apr-21 4:07:18 PM
+ *  Author: Mina Medhat
+ */ 
+#include "MAIN_DRIVER.h"
+#include "FreeRTOS.h"
+#include "task.h"
+#include "croutine.h"
+#include "semphr.h"
+
+
+
+xTaskHandle loop_handle;
+
+void SETUP()
+{
+	
+	SPI_INT(SPI_MASTER,SPI_SCALE_16,SPI_MODE_0,SPI_INT_DISABLE,SPI_MSF);
+	BLUETOOTH_IO_SETUP();
+	LED_GRID_IO_SETUP();
+	PROTOCOL_IO_SETUP();
+	SENSORS_IO_SETUP();
+	WIFI_SETUP_IO();
+	OTHER_SETUPS_IO();
+	TEST_IO_SETUP();
+	
+	
+	/*BLUETOOTH_SETUP();*/
+	
+	/*TESTING*/
+	USART0_INIT(ASYNCHRONOUS_DOUBLE,UART_INT_DISABLE,UART_INT_DISABLE,UART_INT_DISABLE,TX_RX_ENABLE,PARITY_DISABLE_1STOP,DATA_8,500000U);
+	/*TESING*/
+	
+	
+	TEST_UART_SEND_str("hello");
+	
+	/*WIFI*/
+	USART1_INIT(ASYNCHRONOUS_NORMAL,UART_INT_ENABLE,UART_INT_ENABLE,UART_INT_DISABLE,TX_RX_ENABLE,PARITY_DISABLE_1STOP,DATA_8,UART1_BAUD_RATE);
+	/**************/
+	TEST3_SET();
+	LED_GRID_SETUP();
+	TIMERS_SETUP();
+	
+	unsigned char i=0;
+	/*for (i=0;i<50;++i)
+	{
+		toggybit(*PORT_OUT_TOGGLE_LED,TOGGLE_LED_PIN);
+		_delay_ms(1000);
+	}*/
+	
+	setbit(*PORT_OUT_READY_LED,READY_LED_PIN);
+	
+	TEST_UART_SEND_VALUE(xTaskCreate(LOOP,"W",80,NULL,1,&loop_handle)) ;
+}
+
+
+
+
+void LOOP(void *pd)
+{
+	while (1)
+	{
+		LOOP_LED_GRID();
+		BLUETOOTH_LOOP();
+		vTaskDelay(100);
+	}
+}
+
+void OTHER_SETUPS_IO()
+{
+	gpio_outputconfg(PORT_DDR_READY_LED,PORT_OUTMOD_READY_LED,OUTPASS,READY_LED_PIN);
+	gpio_outputconfg(PORT_DDR_TOGGLE_LED,PORT_OUTMOD_TOGGLE_LED,OUTPASS,TOGGLE_LED_PIN);
+	
+}

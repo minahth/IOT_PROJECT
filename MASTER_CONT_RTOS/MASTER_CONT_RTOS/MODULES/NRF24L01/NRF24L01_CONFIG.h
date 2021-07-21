@@ -1,0 +1,91 @@
+/*
+ * NRF24L01_CONFIG.h
+ *
+ * Created: 20-Jan-21 8:00:28 PM
+ *  Author: ideapad510
+ */ 
+
+
+#ifndef NRF24L01_CONFIG_H_
+#define NRF24L01_CONFIG_H_
+
+#include "HARDWARE_CONNECTIONS.h"
+#include "protocol_define.h"
+
+
+
+/*USED CONFIG*/
+
+#define NRF_USED_CRC CRC_1_BYTE
+
+#define NRF_USED_WAIT_TIME NRF_WAIT_1000u
+
+#define NRF_USED_RET_COUNT NRF_RET_5
+
+#define NRF_USED_RX_ADDR_P1 MY_PROTOCOL_ADDRESS
+/*#define NRF_USED_RX_ADDR_P1 (unsigned long long)0X4752658548 *///LONG LONG
+
+#define NRF_USED_CH_1 NRF_CH_3_R_2_402
+
+
+#define NRF_USED_CH_2 NRF_CH_10_R_2_409
+#define NRF_USED_CH_3 NRF_CH_39_R_2_438
+#define NRF_USED_CH_4 NRF_CH_63_R_2_462
+#define NRF_USED_CH_5 NRF_CH_90_R_2_489
+#define NRF_USED_CH_6 NRF_CH_100_R_2_499
+#define NRF_USED_CH_7 NRF_CH_112_R_2_511
+#define NRF_USED_CH_8 NRF_CH_122_R_2_521
+
+
+/*
+#define NRF_USED_CH_1 NRF_CH_3_R_2_402
+#define NRF_USED_CH_2 NRF_CH_10_R_2_409
+#define NRF_USED_CH_3 NRF_CH_10_R_2_409
+#define NRF_USED_CH_4 NRF_CH_10_R_2_409
+#define NRF_USED_CH_5 NRF_CH_10_R_2_409
+#define NRF_USED_CH_6 NRF_CH_10_R_2_409
+#define NRF_USED_CH_7 NRF_CH_10_R_2_409
+#define NRF_USED_CH_8 NRF_CH_10_R_2_409
+
+*/
+
+
+
+
+
+
+#define NRF_USED_POWER NRF_6dBm
+
+#define NRF_USED_RF_SPEED NRF_250Kbps
+
+
+/*USED INTERRUPTS*/
+#define NRF_USED_MASK_RX_DR 0   //ACTIVE LOW
+#define NRF_USED_MASK_TX_DR 0   //ACTIVE LOW
+#define NRF_USED_MASK_MAX_RT_DR 0   //ACTIVE LOW
+#define NRF_USED_CRC_STATE 1     //ACTIVE HIGH
+/****************/
+/*ACK pipe state*/
+#define NRF_USED_ENNAA_P0 1 /*FOR ACK WHEN TX*/
+#define NRF_USED_ENNAA_P1 1
+#define NRF_USED_ENNAA_P2 0
+#define NRF_USED_ENNAA_P3 0
+#define NRF_USED_ENNAA_P4 0
+#define NRF_USED_ENNAA_P5 0
+/*RX pipe state*/
+#define NRF_USED_ERX_P0 0
+#define NRF_USED_ERX_P1 1
+#define NRF_USED_ERX_P2 0
+#define NRF_USED_ERX_P3 0
+#define NRF_USED_ERX_P4 0
+#define NRF_USED_ERX_P5 0
+
+
+#define NRF_USED_PL_WITH_ACK_STATE_AT_FIRST 0
+#define NRF_USED_EN_DPL 1
+
+
+
+
+
+#endif /* NRF24L01_CONFIG_H_ */

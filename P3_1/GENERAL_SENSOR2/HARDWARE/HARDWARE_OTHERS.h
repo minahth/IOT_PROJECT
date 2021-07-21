@@ -1,0 +1,18 @@
+/*
+ * HARDWARE_OTHERS.h
+ *
+ * Created: 05-Apr-21 4:56:18 PM
+ *  Author: Mina Medhat
+ */ 
+
+
+#ifndef HARDWARE_OTHERS_H_
+#define HARDWARE_OTHERS_H_
+
+#define PORT_DDR_READY_LED PORTD_DDRA_ADDRESS
+#define PORT_OUTMOD_READY_LED PORTD_OUTMOD_ADDRESS
+#define PORT_OUT_READY_LED PORTD_OUT_ADDRESS
+#define READY_LED_PIN 5
+
+
+#endif /* HARDWARE_OTHERS_H_ */
